@@ -1,0 +1,35 @@
+name: Convert Blocklist
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Chạy hàng ngày lúc 00:00 UTC
+  workflow_dispatch:  # Cho phép chạy thủ công từ giao diện GitHub
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run conversion script
+      run: |
+        python main.py
+
+    - name: Commit and push updated YML
+      run: |
+        git config --global user.name 'canhdeeptry'
+        git config --global user.email 'canh5002@gmail.com'
+        git add docs/blocklist.yml
+        git commit -m "Update blocklist YML"
+        git push
