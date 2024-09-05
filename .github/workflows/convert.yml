@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * *'  # Chạy hàng ngày lúc 00:00 UTC
   workflow_dispatch:  # Cho phép chạy thủ công từ giao diện GitHub
 
-permissons:
+permissions:
   contents: write
 
 jobs:
