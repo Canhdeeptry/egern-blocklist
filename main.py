@@ -14,13 +14,25 @@ def convert_txt_to_yml():
     # Đọc dữ liệu từ file TXT
     lines = response.text.splitlines()
 
-    # Tạo danh sách các domain_suffix_set
-    domain_suffix_set = [line.strip() for line in lines if line.strip() and not line.startswith('#')]
+    domain_set = []  # Nếu có IP cần thêm vào đây
+    domain_suffix_set = []
+
+    # Xử lý từng dòng để phân loại
+    for line in lines:
+        line = line.strip()
+        if line and not line.startswith('!'):  # Bỏ qua các dòng bắt đầu bằng !
+            if line.startswith('||'):
+                domain_suffix = line[2:].split('^')[0]  # Loại bỏ || và ^ nếu có
+                domain_suffix_set.append(domain_suffix)
+            elif line.startswith('||'):
+                # Giả sử rằng bạn cũng muốn xử lý IP trong domain_set
+                # Có thể thêm điều kiện để xử lý IP ở đây
+                pass
 
     # Tạo dữ liệu YML theo định dạng yêu cầu
     data = {
         'no_resolve': True,
-        'domain_set': [],  # Danh sách IP có thể được thêm vào đây nếu cần
+        'domain_set': domain_set,
         'domain_suffix_set': domain_suffix_set
     }
 
