@@ -5,13 +5,16 @@ on:
     - cron: '0 0 * * *'  # Chạy hàng ngày lúc 00:00 UTC
   workflow_dispatch:  # Cho phép chạy thủ công từ giao diện GitHub
 
+permissons:
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v4
