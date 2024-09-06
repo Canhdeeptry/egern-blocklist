@@ -1667,6 +1667,7 @@ domain_suffix_set:
 - crsspxl.com
 - crwdcntrl.net
 - cryptox-ads.io
+- csp.secureserver.net
 - ct.pinterest.com
 - ctnsnet.com
 - customad.cnn.com
@@ -1782,6 +1783,7 @@ domain_suffix_set:
 - events-api.soundcloud.com
 - events-collector.spot.im
 - events-dra.op.hicloud.com
+- events.api.secureserver.net
 - events.avantisvideo.com
 - events.iap.unity3d.com
 - events.popinfo.jp
@@ -5317,7 +5319,6 @@ domain_suffix_set:
 - cruthdivisi.life
 - csdian.net
 - csm.cxpublic.com
-- csp.secureserver.net
 - csqghvpsx.com
 - cst.cstwpush.com
 - cswloxhjge.com
@@ -5918,7 +5919,6 @@ domain_suffix_set:
 - event.wedobest.com.cn
 - eventgw.twilio.com
 - events.apester.com
-- events.api.secureserver.net
 - events.attentivemobile.com
 - events.jora.com
 - events.launchdarkly.com
@@ -6753,7 +6753,6 @@ domain_suffix_set:
 - ilyf4amifh.com
 - im.bluevoox.com
 - imagecash.net
-- images-pw.secureserver.net
 - images.footballaddicts.se
 - imageshh.com
 - imarketservices.com
