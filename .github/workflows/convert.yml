@@ -2,11 +2,11 @@ name: Convert Blocklist
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Chạy hàng ngày lúc 00:00 UTC
-  workflow_dispatch:  # Cho phép chạy thủ công từ giao diện GitHub
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
 
 permissions:
-  contents: write
+  contents: write  
 
 jobs:
   convert:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -35,9 +35,9 @@ jobs:
         git config --global user.email 'actions@github.com'
 
     - name: Commit and push updated YML
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git add docs/blocklist.yml
-        git commit -m "Update blocklist YML"
-        git push https://x-access-token:${GH_TOKEN}@github.com/Canhdeeptry/dns-blocklist-converter.git
+        git commit -m "Update blocklist YML" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
