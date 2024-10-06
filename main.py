@@ -2,7 +2,7 @@ import requests
 import yaml
 import os
 
-TXT_URL = 'https://github.com/Canhdeeptry/egern-blocklist/blob/main/docs/blocklist.yml'  
+TXT_URL = 'https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt'  
 YML_FILE = 'docs/blocklist.yml'
 
 def convert_txt_to_yml():
