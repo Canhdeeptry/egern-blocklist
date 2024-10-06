@@ -2,7 +2,9 @@ import requests
 import yaml
 import os
 
-TXT_URL = 'https://abpvn.com/filter/abpvn-F2blen.txt'  
+TXT_URL = ['https://abpvn.com/filter/abpvn-F2blen.txt',
+           'https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt'
+]  
 YML_FILE = 'docs/blocklist.yml'
 
 def convert_txt_to_yml():
