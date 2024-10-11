@@ -84,8 +84,6 @@ domain_set:
 - 24h.com.vn##[id^="ADS_"]
 - 2banh.vn###position_full_top_banner_pc
 - 2game.vn##.gc-header__wrapper + div[style]
-- 2phimhay.co##.code-block-1.code-block
-- 2phimhay.co##.navbar-container + .container
 - 90phut22.xyz##.group-link:has(a[href*="&utm_"])
 - 90phut22.xyz##.topnhacai
 - 90phute.cc###menu-main-menu>.menu-nha-cai-uy-tin.menu-item.nav-item.style-2>.nav-link
@@ -117,6 +115,7 @@ domain_set:
 - apkmoddone.com##.relatedPostsAd
 - apkmoddone.com##div.pAdin
 - apkmoddone.com,apkmoddone.phongroblox.com##.adNative
+- apkmoddone.phongroblox.com,www.vip1s.top###anchor-ad
 - asianbookie.com##a[href^="/cgi-bin/to.cgi"]
 - autodaily.vn,xehay.vn###banner3double
 - autopro.com.vn##.admicro
@@ -183,6 +182,7 @@ domain_set:
 - dantri.com.vn###mobile-home-middle-1
 - dantri.com.vn###mobile-home-middle-2
 - dantri.com.vn###mobile-home-top-page
+- dantri.com.vn##.ads-masthead
 - danviet.vn##.bg-gray
 - danviet.vn##.sidebar>div[style]
 - diadiem.com##.div_box_adv
@@ -418,6 +418,8 @@ domain_set:
 - phimgichill.net,ophimhdvn3.net###pc-catfix
 - phimgichill.net,ophimhdvn3.net##.lightbox-player-pc
 - phimgichill.net,ophimhdvn3.net##div[id^="preload-"]
+- phimhay.info##.code-block-1.code-block
+- phimhay.info##.navbar-container + .container
 - phimhay123.me###mp-preload-popup-overlay
 - phimhaymoii.com##a[target="_blank"][rel="nofollow noopener"]
 - phimlongtieng.com,phimlongtieng.net###p-GMH
@@ -701,6 +703,7 @@ domain_set:
 - www.vietjack.com##div.ads_ads
 - www.vietjack.com##h3.sub-title
 - www.vietjack.com##ul.list:nth-of-type(2)
+- www.vip1s.top###horizontal-ad
 - www.vipphim.wiki##.block.translate-x-\[-50\%\].left-2\/4.z-\[1\].bottom-\[-6px\].fixed.mx-auto.md\:container.md\:px-0.px-4.w-screen
 - xehay.vn###banner1ab
 - xem.tructiepnba.com##.truct-catfish
