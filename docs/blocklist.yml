@@ -28,7 +28,7 @@ domain_set:
 - /disable-devtool.min.js$script
 - /giadinhonline.vn/files/qc/*
 - /i.imgur.com$domain=xemphimchill.xyz
-- /i.imgur.com/*.gif$domain=keonhacai55.run|phimlongtieng.net|www.phimdinhcaoz.com|phimdinhcao.net|xoilacq.cc|90phute.cc|unmanned-ship.org|cakhiam.cc|listnhacai88.com|xoilaczz63.live|xemtivingon.org|phimlongtieng.com|mitomm.cc|rakhoiv.cc|plcdn.xyz|phimmoi.im|motphimww.net
+- /i.imgur.com/*.gif$domain=keonhacai55.run|phimlongtieng.net|www.phimdinhcaoz.com|phimdinhcao.net|xoilacq.cc|90phute.cc|unmanned-ship.org|cakhiam.cc|listnhacai88.com|xoilaczz63.live|xemtivingon.org|phimlongtieng.com|mitomm.cc|rakhoiv.cc|plcdn.xyz|phimmoiz.me|motphimww.net
 - /khophim-poster.cuoiia.top/*.gif$image,domain=phim18han.net
 - /mmo/*$xmlhttprequest,image,domain=vuighe3.com
 - /newchill/*gif$image
@@ -191,12 +191,12 @@ domain_set:
 - doisongphapluat.com.vn##.sys-ads
 - domdomtruyentranh.com##iframe[src*="ads"]
 - dongphim.video##a[rel="nofollow sponsored"]
-- dongphim.video,dongchill.me,bichill.my,phim18han.net,phimmoi.im,vivuphim.info,hhpanda.bio,hhanime3d.com,subnhanhvl.com,dongchill.me###footer_fixed_ads
+- dongphim.video,dongchill.me,bichill.my,phim18han.net,phimmoiz.me,vivuphim.info,hhpanda.bio,hhanime3d.com,subnhanhvl.com,dongchill.me###footer_fixed_ads
 - download.vn##div[id^="adsbg"]
 - dubaotiente.io##.ad-pin-right-bottom
 - ebookbkmt.com##.top-right
 - ephoto360.com##.line-ads
-- ephoto360.com,thiepmung.com,ophimhd.vip,xemphimchill.xyz,phimmoi.im,247phim.cc,www.phimmoichilla.xyz,motphimchill.online,phimmoi2024.net,hayhaytv.cc,www.ssphim.us##.ad-container
+- ephoto360.com,thiepmung.com,ophimhd.vip,xemphimchill.xyz,phimmoiz.me,247phim.cc,www.phimmoichilla.xyz,motphimchill.online,phimmoi2024.net,hayhaytv.cc,www.ssphim.us##.ad-container
 - eva.vn##.banrpstn
 - fastscans1.net##.banner-shopee
 - fastscans1.net##a[href^="https://shope.ee"]
@@ -424,8 +424,6 @@ domain_set:
 - phimhaymoii.com##a[target="_blank"][rel="nofollow noopener"]
 - phimlongtieng.com,phimlongtieng.net###p-GMH
 - phimlongtieng.com,phimlongtieng.net,www.phimdinhcaoz.com###mobile_content_top
-- phimmoi.im###hide_catfish
-- phimmoi.im,vungtv.us,xemphimhdcv.com###container-ads
 - phimmoi.sale,motphimww.net,tvphim.vc###floating_ads_bottom_textcss_container
 - phimmoi.sale,motphimww.net,tvphim.vc##.module_home_ads
 - phimmoi.sale,motphimww.net,tvphim.vc##.module_single_ads
@@ -437,6 +435,8 @@ domain_set:
 - phimmoichillz.cc##html>div[style]
 - phimmoinay.vip,phimmoisz.pro,tvzinghd.co##.sda-catfish
 - phimmoisz.pro###adspm4u
+- phimmoiz.me###hide_catfish
+- phimmoiz.me,vungtv.us,xemphimhdcv.com###container-ads
 - phimnhua.net###catfish-banner
 - phimnhua.net###dl-banner-728x90
 - phimnhua.net##.center-screen.backdrop
@@ -1101,12 +1101,12 @@ domain_suffix_set:
 - phim.vkool7.net/images/ads/$image
 - phim.vkool7.net/js/pov.js$script,~third-party
 - phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
-- phimmoi.im/js/ads.js$script
-- phimmoi.im
 - phimmoichill.com/newchill/$script,~third-party
 - phimmoichillz.cc/pop$image
 - phimmoichillz.cc
 - phimmoinhat.top
+- phimmoiz.me/js/ads.js$script
+- phimmoiz.me
 - phimnhanhvl.com
 - phimnhua.net
 - phimreview.org/playergk/phimreview.mp4$rewrite=abp-resource:blank-mp4,domain=phimreview.org
@@ -11355,7 +11355,6 @@ domain_suffix_set:
 - theadhost.com
 - thebrighttag.com
 - thebugs.ws
-- thecounter.com
 - thedevband.com
 - theekedgleamed.com
 - theelrou.net
