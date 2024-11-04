@@ -29,9 +29,9 @@ domain_set:
 - /disable-devtool.min.js$script
 - /giadinhonline.vn/files/qc/*
 - /i.imgur.com$domain=xemphimchill.xyz
-- /i.imgur.com/*.gif$domain=keonhacai55.link|phimlongtieng.net|www.phimdinhcaoz.com|phimdinhcao.net|xoilacxj.cc|90phutu.cc|unmanned-ship.org|cakhiai.cc|listnhacai88.com|xoilaczz63.live|xemtivingon.org|phimlongtieng.com|mitomn.cc|rakhoin.cc|plcdn.xyz|phimmoi.ing|motphimww.net
+- /i.imgur.com/*.gif$domain=keonhacai55.link|phimlongtieng.net|www.phimdinhcaoz.com|phimdinhcao.net|xoilacxj.cc|90phutz46.live|unmanned-ship.org|cakhiai.cc|listnhacai88.com|xoilaczz63.live|xemtivingon.org|phimlongtieng.com|mitomz21.live|rakhoiz31.live|plcdn.xyz|phimmoi.ing|motphimww.net
 - /khophim-poster.cuoiia.top/*.gif$image,domain=phim18han.net
-- /mmo/*$xmlhttprequest,image,domain=vuighe3.com
+- /mmo/*$xmlhttprequest,image,domain=vuighe4.com
 - /newchill/*gif$image
 - /polyad.
 - /popunder7.
@@ -85,32 +85,29 @@ domain_set:
 - 24h.com.vn##[id^="ADS_"]
 - 2banh.vn###position_full_top_banner_pc
 - 2game.vn##.gc-header__wrapper + div[style]
-- 90phut22.xyz##.group-link:has(a[href*="&utm_"])
-- 90phut22.xyz##.topnhacai
-- 90phutu.cc###menu-main-menu>.menu-nha-cai-uy-tin.menu-item.nav-item.style-2>.nav-link
-- 90phutu.cc##.bookmaker-selector-container
-- 90phutu.cc##.c-int.d-lg-none.d-block
-- 90phutu.cc##.container>.row>.col-12
-- 90phutu.cc##.d-lg-none.d-block.p-1.text-center
-- 90phutu.cc##.gmd-match-footer__odds
-- 90phutu.cc##.justify-content-center.d-flex>.btn-primary.btn
-- 90phutu.cc##.mt-1.d-lg-flex.d-none.sub-menu
-- 90phutu.cc##.nav-wrap>a[rel="nofollow"]
-- 90phutu.cc##a.d-lg-none.d-block:nth-of-type(2)
-- 90phutu.cc,cakhiai.cc,xoilacxj.cc,unmanned-ship.org###quangcaopc
-- 90phutu.cc,cakhiai.cc,xoilacxj.cc,unmanned-ship.org,xoilaczz63.live,xemtv.tvhayhd.tv,rakhoin.cc###wap_bottombanner
+- 90phutz46.live###menu-main-menu>.menu-nha-cai-uy-tin.menu-item.nav-item.style-2>.nav-link
+- 90phutz46.live##.bookmaker-selector-container
+- 90phutz46.live##.c-int.d-lg-none.d-block
+- 90phutz46.live##.container>.row>.col-12
+- 90phutz46.live##.d-lg-none.d-block.p-1.text-center
+- 90phutz46.live##.gmd-match-footer__odds
+- 90phutz46.live##.justify-content-center.d-flex>.btn-primary.btn
+- 90phutz46.live##.mt-1.d-lg-flex.d-none.sub-menu
+- 90phutz46.live##.nav-wrap>a[rel="nofollow"]
+- 90phutz46.live##a.d-lg-none.d-block:nth-of-type(2)
+- 90phutz46.live,cakhiai.cc,xoilacxj.cc,unmanned-ship.org###quangcaopc
+- 90phutz46.live,cakhiai.cc,xoilacxj.cc,unmanned-ship.org,xoilaczz63.live,xemtv.tvhayhd.tv,rakhoiz31.live###wap_bottombanner
 - abtruyenmoi.com##.no-auto-popup
-- anime47.work###qc_clgt
-- animet3.biz###menubentrai
-- animet3.biz##.gnartyx-offads
-- animet3.biz,animetvn4.com,subnhanh1.org###fbox-background
+- anime47.app###qc_clgt
+- animet3.ink###menubentrai
+- animet3.ink##.gnartyx-offads
+- animet3.ink,animetvn4.com,subnhanh1.org###fbox-background
 - animetvn4.com##.gnarty-offads
-- animevietsub.run###invideo_wrapper
-- animevietsub.run##.Ads
-- animevietsub.run##.mobile-catfixx
-- animevietsub.run,tiemsachhay.net##.pc-catfixx
-- animew.org##div.py-2.md\:py-6.mx-auto.w-full.max-w-screen-3xl>div.relative
-- api.anime3s.com,live4.xoilac34.org,phim18han.net,freeplayervideo.com,abysscdn.com,player-cdn.com,geoip.redirect-ads.com,watch.rkplayer.xyz,phimss.net,fdcdn.xyz##.jw-logo
+- animevietsub.ink###invideo_wrapper
+- animevietsub.ink##.Ads
+- animevietsub.ink##.mobile-catfixx
+- animevietsub.ink,tiemsachhay.net##.pc-catfixx
+- animew.info##div.py-2.md\:py-6.mx-auto.w-full.max-w-screen-3xl>div.relative
 - apkmoddone.com###sn-AnchorAd
 - apkmoddone.com##.pAd
 - apkmoddone.com##.relatedPostsAd
@@ -127,8 +124,8 @@ domain_set:
 - baonga.com##.monkey-content-duoicanbiet
 - baonga.com##.monkey-section-tinnoibat
 - baonga.com##div.monkey-qc
-- biphim.ch###top_oddd
-- biphim.ch,subnhanh.dev,subnhanhvl.top,hhpanda.city##.underplayer_btn
+- biphim.id###top_oddd
+- biphim.id,subnhanh.id,subnhanhvl.online,hhpanda.info##.underplayer_btn
 - blog.abit.vn##.button-dangkyngay
 - blogkiienthuc.net##.textwidget
 - blogtruyenvn.org##.qc-inner
@@ -146,7 +143,7 @@ domain_set:
 - bongda.rakhooi.tv,tructiep.caheo7.link##.modelAds
 - bongda.rakhooi.tv,tructiep.caheo7.link##.nhacaiuytin
 - bongda.rakhooi.tv,tructiep.caheo7.link##.text-running
-- bongda.rakhooi.tv,unmanned-ship.org,tructiep.caheo7.link,mitomn.cc,rakhoin.cc,phimmoichillz.cc##.footer-banner
+- bongda.rakhooi.tv,unmanned-ship.org,tructiep.caheo7.link,mitomz21.live,rakhoiz31.live,phimmoichillz.cc##.footer-banner
 - bongda12h365.com##.list-dat-cuoc
 - bongda365.news,soikeoz.vip##.banners
 - bongdaso66.net###right_float
@@ -159,7 +156,7 @@ domain_set:
 - cakhiai.cc##.menu-item-object-custom
 - cakhiai.cc,unmanned-ship.org##.align-items-center.justify-content-between.d-flex.col-12>.d-lg-none.d-block
 - cakhiai.cc,xoilacxj.cc##.sub-menu.d-none.d-lg-flex
-- cakhiai.cc,xoilacxj.cc,90phutu.cc,unmanned-ship.org##.marquee-container
+- cakhiai.cc,xoilacxj.cc,90phutz46.live,unmanned-ship.org##.marquee-container
 - cdnwp.icu,mephim.ink###myModal
 - cdnwp.icu,mephim.ink##div[id^="adsphim-"]
 - chap.vn##.my_responsive_add
@@ -167,9 +164,9 @@ domain_set:
 - chap.vn##[class1="my_responsive_add"]
 - chat.vebotv.me##.chat-header
 - chat.vebotv.me##[href="https://8xbe52.com"]
-- chillphimmoizzzz.org##.expand-static-banner
-- chillphimmoizzzz.org##.preload-banner
-- chillphimmoizzzz.org##.static-banner
+- chillphimmoi.pro##.expand-static-banner
+- chillphimmoi.pro##.preload-banner
+- chillphimmoi.pro##.static-banner
 - chodansinh.net##.link-gold
 - chodansinh.net##[id^="banner"]
 - chotlo3s.com##div[id^="float"]
@@ -193,17 +190,17 @@ domain_set:
 - doctruyenchu.info##.topbanner
 - doctruyenln.com##.chapter-content .min-h-\[275px\]
 - doisongphapluat.com.vn##.sys-ads
-- domdomtruyenday.com##iframe[src*="ads"]
-- dongphim.taxi##a[rel="nofollow sponsored"]
-- dongphim.taxi,dongchill.pro,bichill.ch,phim18han.net,phimmoi.ing,vivuphim.info,hhpanda.city,hhanime3d.com,subnhanhvl.top###footer_fixed_ads
+- domdomcomics.net##iframe[src*="ads"]
+- dongphim.id##a[rel="nofollow sponsored"]
+- dongphim.id,dongchill.pro,bichill.site,phim18han.net,phimmoi.ing,vivuphim.info,hhpanda.info,hhanime3d.com,subnhanhvl.online###footer_fixed_ads
 - download.vn##div[id^="adsbg"]
 - dubaotiente.io##.ad-pin-right-bottom
 - ebookbkmt.com##.top-right
 - ephoto360.com##.line-ads
-- ephoto360.com,thiepmung.com,ophimhd.vip,xemphimchill.xyz,phimmoi.ing,247phim.cc,www.phimmoichilla.xyz,motphimchill.online,phimmoi2024.net,hayhaytv.cc,www.ssphim.us##.ad-container
+- ephoto360.com,thiepmung.com,ophimhd.vip,xemphimchill.xyz,phimmoi.ing,247phim.cc,www.phimmoichilla.xyz,phimmoi2024.net,hayhaytv.cc,www.ssphim.us##.ad-container
 - eva.vn##.banrpstn
-- fastscans2.net##.banner-shopee
-- fastscans2.net##a[href^="https://shope.ee"]
+- fastscans3.net##.banner-shopee
+- fastscans3.net##a[href^="https://shope.ee"]
 - fdcdn.xyz##.jw-button-image
 - file.gocmod.com##div.ad
 - forum.gocmod.com##.ad-manager-forum-list-bottom
@@ -231,28 +228,31 @@ domain_set:
 - game8.vn##div.news-left-related:nth-of-type(2)
 - gameio.vn###tubia
 - genk.vn##.khw-ads-wrapper.clearfix
-- ghienphim.in##.parent.special
-- ghienphim.in##.partner-me
+- ghienphim.vip##.no-ads
+- ghienphim.vip##.parent.special
+- ghienphim.vip##.partner-me
 - giadinhonline.vn,congluan.vn,nongnghiep.vn##.exp_qc_share
 - giadinhonline.vn,vietnamnet.vn,nongnghiep.vn,dubaotiente.io,taichinhdoanhnghiep.net.vn##.adv
+- goal.90phut24.xyz##.group-link:has(a[href*="&utm_"])
+- goal.90phut24.xyz##.topnhacai
 - gocmod.com###bannerContainer1
 - gocmod.com###bannerContainer2
 - gocmod.com###sp-wrapper-hovering-format
 - gocmod.com##.wam-banner
 - gocmod.com##center:has(.adsbygoogle)
-- hayghe.cam###antiblocker
-- hayghe.cam###antiblocker_underplayer
+- hayghechill.com###antiblocker
+- hayghechill.com###antiblocker_underplayer
 - hayhaytv.org,subnhanh1.org##.sticky_bottom
 - hayhaytv.org,subnhanh1.org##.t_logo
 - heovktgame.club##.toogle-ads
-- hhanime3d.com,hhpanda.city,subnhanhvl.top###top_addd
-- hhchina.lat###header-ads
-- hhchina.lat###header-ads + center
-- hhhay.me##.bnqcclm
-- hhpanda.city##.btn-fanpage.btn-default.btn-block.btn
+- hhanime3d.com,hhpanda.info,subnhanhvl.online###top_addd
+- hhchina.us###header-ads
+- hhchina.us###header-ads + center
+- hhhay.ink##.bnqcclm
+- hhpanda.info##.btn-fanpage.btn-default.btn-block.btn
 - hhtm.pro###catfish-ads
 - hhtqvietsub.me###top-banner-pc
-- hhtqvietsub.me,hhchina.lat###sponsor-balloon
+- hhtqvietsub.me,hhchina.us###sponsor-balloon
 - hoahoc247.com##.btn_small_fix_container
 - hoatieu.vn###adrightsecondx
 - hoatieu.vn###adrightspecial
@@ -266,8 +266,8 @@ domain_set:
 - home2.mannhan9.pro##.bn-popup-bottom-sdwdwxw
 - home2.mannhan9.pro##[href="/top-nha-cai.html"]
 - home2.mannhan9.pro##div.row-nhacai
-- home2.mannhan9.pro##li.for-desktop-2 > [href^="https://debet.to/"]
-- home2.mannhan9.pro##li.for-desktop-2 > [href^="https://net88.men/"]
+- home2.mannhan9.pro##li.for-desktop-2 > [href^="https://debet.fun/"]
+- home2.mannhan9.pro##li.for-desktop-2 > [href^="https://net88.run/"]
 - hosocongty.vn##.advertTop
 - hosocongty.vn##.hsdn>li:has(.adsbygoogle)
 - hosocongty.vn##.module_plugins
@@ -284,12 +284,12 @@ domain_set:
 - ketqua04.net##.baloon
 - ketqua04.net##.col-sm-10.kqcenter
 - ketqua04.net##.kqbackground.vien ~ a[target="_blank"]
-- ketqua04.net,nghean24h.vn,xem.tructiepnba.com,biphim.ch,vidian.online,doctruyenln.com,xemtivi4k.com,abtruyenmoi.com,xoilacxj.cc,bongdainfox.tv,live.thapcam70.net,live4.thapcam29.net,live.thapcam30.net,live3.thapcam121.net,live2.thapcam120.net##a[rel="nofollow"]
+- ketqua04.net,nghean24h.vn,xem.tructiepnba.me,biphim.id,vidian.online,doctruyenln.com,xemtivi4k.com,abtruyenmoi.com,xoilacxj.cc,bongdainfox.tv,live2.thapcam29.net,live4.thapcam29.net,live4.thapcamm.xyz,live3.thapcam27.net,live2.thapcam120.net##a[rel="nofollow"]
 - ketqua247vn.club##.box-ads
 - ketqua247vn.club##.linkBanner
 - khiphach.net###qc-kpgame
 - kienthuc.net.vn##.sponsor-zone
-- kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,v.xemphimviet.xyz,ghienphim.in,nhadautu.vn,soikeo365.net,nghenhinvietnam.vn,vivuphim.info,mod.lnpchannel.com##.ads
+- kienthuc.net.vn,saostar.vn,bongda24h.vn,cungthi.online,appvn.com,antt.vn,v.xemphimviet.xyz,ghienphim.vip,soikeo365.net,nghenhinvietnam.vn,vivuphim.info,mod.lnpchannel.com##.ads
 - kinhtedothi.vn##.top-banner-mobile
 - laptrinhcanban.com##.ezo_ad
 - lazi.vn##.quang_cao_pc_right_hoc_tap
@@ -300,12 +300,10 @@ domain_set:
 - 'lichvannien365.com##div[style="width: 100%; min-height: 90px; text-align: center;"]'
 - 'lichvannien365.com##div[style="width: 100%;text-align: center;min-height: 280px;"]'
 - linkneverdie.net,linkneverdie.top,linkneverdie2.com##.info-footer:nth-child(4)
-- live.7mvn2.com###bottomFixedDiv
-- live.7mvn2.com###js_pup_navigation
-- live.7mvn2.com###wAdList
-- live.7mvn2.com##tr[id^="word_"]
-- live.thapcam30.net,live3.thapcam26.net##.mmo
-- live.thapcam30.net,live3.thapcam26.net,live.thapcam70.net##.btnz
+- live.7mvn4.com,live.7mvn4.com###bottomFixedDiv
+- live.7mvn4.com,live.7mvn4.com###js_pup_navigation
+- live.7mvn4.com,live.7mvn4.com###wAdList
+- live.7mvn4.com,live.7mvn4.com##tr[id^="word_"]
 - live10.mannhan79.xyz##.bet-btn-8423
 - live10.mannhan79.xyz##.btn_betnow_632132
 - live10.mannhan79.xyz##.highlight
@@ -319,12 +317,15 @@ domain_set:
 - live3.thapcam26.net##.mmo-inner
 - live3.thapcam26.net##a[href^="/go"]
 - live3.thapcam26.net##div[class*="size-"]
-- live3.thapcam26.net,live.thapcam70.net,live4.thapcam29.net,live.thapcam30.net,live3.thapcam121.net,live2.thapcam120.net##.modal
-- live3.thapcam26.net,xoilaczz63.live,unmanned-ship.org,mitomn.cc,rakhoin.cc##.btn-odds
+- live3.thapcam26.net,live2.thapcam29.net,live4.thapcam29.net,live4.thapcamm.xyz,live3.thapcam27.net,live2.thapcam120.net##.modal
+- live3.thapcam26.net,xoilaczz63.live,unmanned-ship.org,mitomz21.live,rakhoiz31.live##.btn-odds
+- live4.thapcamm.xyz,live3.thapcam26.net##.mmo
+- live4.thapcamm.xyz,live3.thapcam26.net,live2.thapcam29.net##.btnz
 - live4.xoilac34.org##.ft-box
 - live4.xoilac34.org##.vb-button>.mct_-bet
 - live4.xoilac34.org##div.vebo-sp.container:nth-of-type(7)
-- live4.xoilac34.org,live3.thapcam26.net,vebo4.net,xem.vebo31.net,xem.banhkhuc120.info,live.thapcam30.net,live.thapcam70.net,live4.thapcam29.net###m-bet
+- live4.xoilac34.org,live3.thapcam26.net,vebo4.net,xem.vebo31.net,xem.banhkhuc120.info,live4.thapcamm.xyz,live2.thapcam29.net,live4.thapcam29.net###m-bet
+- live4.xoilac34.org,phim18han.net,freeplayervideo.com,abysscdn.com,player-cdn.com,geoip.redirect-ads.com,watch.rkplayer.xyz,phimss.net,fdcdn.xyz,animet3.ink##.jw-logo
 - live4.xoilac34.org,vebo4.net,xem.vebo31.net,xem.banhkhuc120.info##.fade.show
 - live4.xoilac34.org,vebo4.net,xem.vebo31.net,xem.banhkhuc120.info##.ibs-bet
 - live4.xoilac34.org,vebo4.net,xem.vebo31.net,xem.banhkhuc120.info##div[class*="size-"]
@@ -348,24 +349,26 @@ domain_set:
 - "metruyencv.info,metruyencv.net,metruyencv.com#?#.text-center:-abp-has(small:-abp-contains(QU\u1EA2\
   NG C\xC1O))"
 - minhngoc.net.vn,vn-z.vn,kinhtedothi.vn##[id^="adv"]
-- mitomn.cc##.btn-od
+- mitomz21.live##.btn-od
 - mn.mediastation.live##.btn-bottom-right-append-player
 - mn.mediastation.live##.images-bnr-bellow-append-custom
 - mn.mediastation.live##.images-top-pl
-- motchilltt.com##.ads-embed
-- motchilltv.li##.-translate-x-1\/2.transform.left-1\/2.bottom-0.fixed
+- motchillio.com##.ads-embed
+- motchilltv.id##.-translate-x-1\/2.transform.left-1\/2.bottom-0.fixed
 - mphim14.org##.adv_phim
 - mphim14.org##.fixed_bottom
 - muabanraovat.com##[class^="box_adv_ele"]
 - muare.vn##.admicro_top
-- muaxegiatot.com###tdi_129
 - myeva.vn###adop_bfd
 - myeva.vn##ins[class*="adsby"]
 - mythethao.net###left_ads_float
 - mythethao.net###right_ads_float
-- nettruyenww.com###wap_bottombanner1
-- nettruyenx.com##.my-banner
-- nhaccuatui.com###IMAPointernctPlayer
+- nettruyenww.com###_pop-nettruyenww-15
+- nettruyenww.com###catfish-content
+- nettruyenww.com###pop_nettruyenww
+- nettruyenww.com##.banner
+- nettruyenx.com###_pop-nettruyenx-13
+- nhaccuatui.com###banner-qc_outstream
 - nhaccuatui.com##.adv_home_300_250
 - nhaccuatui.com##.nqc-zone
 - nhacdj.vn###top-adv
@@ -385,7 +388,7 @@ domain_set:
 - ophimhd.vip##.uniad-player + div[style]
 - phapluatplus.baophapluat.vn##div[style="text-align:center;margin-top:0px;margin-bottom:0px;"]
 - phim.vkool8.net##.box-rating
-- phim.vkool8.net,subnhanhvl.top,motchill.taxi,subnhanh.dev,tructiepdabong5.co,protruyen4.xyz,biphim.ch,dongphim.taxi,phimbet.biz,hhanime3d.com,dongchill.pro###overlay
+- phim.vkool8.net,subnhanhvl.online,motchill.casa,subnhanh.id,tructiepdabong5.co,protruyen4.xyz,biphim.id,dongphim.id,phimbet.biz,hhanime3d.com,dongchill.pro###overlay
 - phim.vkool8.net,vphims.net##.catfish-ck
 - phim1080.in##.ff-banner
 - phim18han.net###pc-top-banner
@@ -412,15 +415,15 @@ domain_set:
 - phimhaymoi.online##a[target="_blank"][rel="nofollow noopener"]
 - phimlongtieng.com,phimlongtieng.net###p-GMH
 - phimlongtieng.com,phimlongtieng.net,www.phimdinhcaoz.com###mobile_content_top
+- phimmoi.club,motphimww.net,tvphim.id###floating_ads_bottom_textcss_container
+- phimmoi.club,motphimww.net,tvphim.id##.module_home_ads
+- phimmoi.club,motphimww.net,tvphim.id##.module_single_ads
 - phimmoi.ing###hide_catfish
 - phimmoi.ing,vungtv.us,ww1.xemphimhdc.com###container-ads
-- phimmoi.sale,motphimww.net,tvphim.my###floating_ads_bottom_textcss_container
-- phimmoi.sale,motphimww.net,tvphim.my##.module_home_ads
-- phimmoi.sale,motphimww.net,tvphim.my##.module_single_ads
 - phimmoi.tuphim.net###adsTopInPageBanner
 - phimmoi.tuphim.net##.adsContainer
 - phimmoi.tuphim.net##.header__auth>.details__devices-list
-- phimmoichill.io###pm_quangcao
+- phimmoichill.biz###pm_quangcao
 - phimmoichillz.cc###preload
 - phimmoichillz.cc##html>div[style]
 - phimmoinay.vip,phimmoisz.biz,tvzinghd.co##.sda-catfish
@@ -435,7 +438,7 @@ domain_set:
 - phimss.net##.ads-pc
 - phimss.net##.ads-sp
 - phimtuoitho.site,tvhayw.org##.catfish-bottom
-- phimvuihd.org,hh3dhay.life,phim18han.net,phim24h.mobi,xem14.com,vutruphim.tv,tram3d.net##.float-ck-center-lt
+- phimvuihd.org,hh3dhay.life,phim18han.net,phim24h.mobi,xem15.com,vutruphim.tv,tram3d.net##.float-ck-center-lt
 - phongroblox.com###fakeDown
 - phunumoi.net.vn,nhipcaudautu.vn##div[id^="ads_"]
 - phuongtrinhhoahoc.com##.shadow-card + .mt-2
@@ -459,9 +462,9 @@ domain_set:
 - soikeo365.net##.ads-floatingads
 - soikeo365.net##.banner-item
 - soikeo365.net##.top-nha-cai
-- soikeoz.vip,phimmoinay.vip,phimtho.net,protruyen4.xyz,mphim14.org###popup_banner_beta
+- soikeoz.vip,phimmoinay.vip,phimtho.net,protruyen4.xyz###popup_banner_beta
 - sport5.vn,afamily.vn##.afw-topbanner
-- subnhanhvl.top,motchill.taxi,subnhanh.dev###xs-addd0
+- subnhanhvl.online,motchill.casa,subnhanh.id###xs-addd0
 - tamlinh247.biz##.ads-gg-top
 - tamlinh247.biz##.container + .col-xs-12.content_wrap
 - tamlinh247.biz##.content>.content>.content
@@ -525,10 +528,10 @@ domain_set:
 - toithuthuat.com##.box
 - toithuthuat.com##.pum
 - topthuthuat.com,canhrau.com##.widget.widget_text
-- toquoc.vn,baoxaydung.com.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.net,v.xemphimviet.xyz,ghienphim.in,truyengihotdo.net,truyengihotzay.net,truyengihotnha.com,truyengihotnha.net,truyengihotqua.net,truyengihotqua.com,truyengihotnay.com,tenmientruyengi.net,tiemsachhay.net##.banner
+- toquoc.vn,baoxaydung.com.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,thichxemphim1.net,v.xemphimviet.xyz,ghienphim.vip,truyengihotdo.net,truyengihotzay.net,truyengihotnha.com,truyengihotnha.net,truyengihotqua.net,truyengihotqua.com,truyengihotnay.com,tenmientruyengi.net,tiemsachhay.net##.banner
 - tracnghiem.net##.sbAdv
-- tram3d.tv###sticky_ad
-- tram3d.tv##div.text-center:nth-of-type(2)
+- tram3d.vip###sticky_ad
+- tram3d.vip##div.text-center:nth-of-type(2)
 - tructiep.caheo7.link##.container-banner
 - tructiep.caheo7.link##.modal-ads
 - tructiep.caheo7.link##div[class^="slide-bar"]
@@ -585,10 +588,10 @@ domain_set:
 - unmanned-ship.org##.widget_offer
 - unmanned-ship.org##header>.container
 - v.xemphimviet.xyz##li.special.parent
-- v.xemphimviet.xyz,ghienphim.in##.ad-floater
-- v.xemphimviet.xyz,ghienphim.in##.popunder-link
-- v.xemphimviet.xyz,ghienphim.in##.promotion-popup
-- v.xemphimviet.xyz,ghienphim.in##.video-ad-layer
+- v.xemphimviet.xyz,ghienphim.vip##.ad-floater
+- v.xemphimviet.xyz,ghienphim.vip##.popunder-link
+- v.xemphimviet.xyz,ghienphim.vip##.promotion-popup
+- v.xemphimviet.xyz,ghienphim.vip##.video-ad-layer
 - v4u.vn##.Flagrow-Ads-under-header
 - vaoroi365.com##.ads-menu-item
 - vaoroi365.com##.dcmm-button-player-item
@@ -648,15 +651,15 @@ domain_set:
 - voz.vn##div.message--post
 - voz.vn##div[style]:has(.adsbypubpower)
 - vozer.net##.Notices.PanelScroller
-- vsc58.com##a.news__item--action:nth-of-type(2)
+- vsc59.com##a.news__item--action:nth-of-type(2)
 - vtcnews.vn##.sys-ads
 - vtipster.net##div[class*="qca"]
 - vtruyen.com###article>.pt-3.text-centers
 - vtruyen.com##.text-muted
-- vuighe3.com###balloon
-- vuighe3.com##.affiliate
-- vuighe3.com##.player-midpoint-progress
-- vuighe3.com,xem1080.com##.banner-masthead
+- vuighe4.com###balloon
+- vuighe4.com##.affiliate
+- vuighe4.com##.player-midpoint-progress
+- vuighe4.com,xem1080.com##.banner-masthead
 - vungoctuan.vn##.bf-3-primary-column-size.bs-vc-sidebar-column.vc_col-sm-3.vc_column_container.bs-vc-column.wpb_column>.wpb_wrapper.bs-vc-wrapper
 - vuonhoalan.net##.content_middle_rightbar
 - vutruphim.tv###sticky
@@ -686,7 +689,7 @@ domain_set:
 - www.saostar.vn##.top-ads-16x9
 - www.thuocbietduoc.com.vn###neo-right-ads
 - www.tiengnhatdongian.com,ycongnghe.com##.google-auto-placed
-- www.toptruyenww.pro,doctruyen3qw.pro,anime47.work##.advertisement
+- www.toptruyenww.pro,doctruyen3qw.pro,anime47.app##.advertisement
 - www.vietjack.com###download_appnew
 - www.vietjack.com##.box-most-viewed.box-course.box-slide
 - www.vietjack.com##div.ads_ads
@@ -695,13 +698,13 @@ domain_set:
 - www.vip1s.top###horizontal-ad
 - www.vipphim.wiki##.block.translate-x-\[-50\%\].left-2\/4.z-\[1\].bottom-\[-6px\].fixed.mx-auto.md\:container.md\:px-0.px-4.w-screen
 - xehay.vn###banner1ab
-- xem.tructiepnba.com##.truct-catfish
-- xem.tructiepnba.com##.truct-widget
-- xem14.com,download.vn###ouibounce-modal
+- xem.tructiepnba.me##.truct-catfish
+- xem.tructiepnba.me##.truct-widget
+- xem15.com,download.vn###ouibounce-modal
 - xem20.gavang1.net,xem19.gavang1.net##.css-ylxsn9.MuiStack-root
 - xem20.gavang1.net,xem19.gavang1.net##.vjs-banner-btn
 - xem20.gavang1.net,xem19.gavang1.net##div.css-m49bkq.MuiStack-root>a
-- xemphimchill.xyz,hhninja11.tv,phimbocn.com,phimhoathinh3d.com,hoathinhtq.site,hhtq8.vip,hhtqvietsub.me,motchilltv.ws,hhtrungquoc6.com,hhtutien.tv,animeweb.vip,hh3d1.xyz,hoathinh4k3.net,motchilltvzz.biz,hoathinh3dtq.site,dragonphim.tv,hhchina.lat,phimmoi2024.net,hhh3d.tv,hhtq3d.net,hhtq5.vip,wibu47.com,yanhh3d.com,hhhay.me,hhvsub.com###catfish
+- xemphimchill.xyz,hhninja12.tv,phimbocn.com,phimhoathinh3d.com,hoathinhtq.site,hhtq8.vip,hhtqvietsub.me,motchilllb.net,hhtrungquoc6.com,hhtutien.tv,animeweb.vip,hh3d1.xyz,hoathinh4k3.net,motchilltvzz.biz,hoathinh3dtq.site,dragonphim.tv,hhchina.us,phimmoi2024.net,hhh3d.tv,hhtq3d.net,hhtq5.vip,wibu47.com,yanhh3d.com,hhhay.ink,hhvsub.com,motphimtv.ch###catfish
 - xemtivi4k.com###adstop2
 - xemtivi4k.com##.ads-item
 - xemtivi4k.com##.col-lg-4.hidden-xs.d-flex.flex-column.address-wrap
@@ -721,18 +724,18 @@ domain_set:
 - xoilacxj.cc##.row.d-none
 - xoilacxj.cc##.widget-offers__list
 - xoilacxj.cc##div.d-lg-none.d-block:nth-of-type(3)
-- xoilacxj.cc,90phutu.cc,xoilaczz63.live##.match-detail__offer
-- xoilacxj.cc,rakhoin.cc##.sk_balloon
+- xoilacxj.cc,90phutz46.live,xoilaczz63.live##.match-detail__offer
+- xoilacxj.cc,rakhoiz31.live##.sk_balloon
 - xoilacxj.cc,tructiepdabong5.co##.offer__btn
-- xoilacxj.cc,unmanned-ship.org,cakhiai.cc,90phutu.cc##.company
-- xoilacxj.cc,unmanned-ship.org,cakhiai.cc,mitomn.cc##div[id^="dnn_"]
+- xoilacxj.cc,unmanned-ship.org,cakhiai.cc,90phutz46.live##.company
+- xoilacxj.cc,unmanned-ship.org,cakhiai.cc,mitomz21.live##div[id^="dnn_"]
 - xoilacxj.cc,xoilaczz63.live##.menu-top-nha-cai
-- xoilacxj.cc,xoilaczz63.live,90phutu.cc##.menu-cuoc-8xbet
+- xoilacxj.cc,xoilaczz63.live,90phutz46.live##.menu-cuoc-8xbet
 - xoilaczz63.live##.grid-match__footer
 - xoilaczz63.live##.odds-comp
 - xoilaczz63.live##.w-100.justify-content-center.align-items-center.d-flex
 - xoilaczz63.live##a.d-lg-none.d-block:nth-of-type(1)
-- xoilaczz63.live,mitomn.cc##.d-lg-flex.d-none.p-0.company.flex-1.table
+- xoilaczz63.live,mitomz21.live##.d-lg-flex.d-none.p-0.company.flex-1.table
 - xoivo2.online,tructiepdabong5.co##.adLogoPlayer
 - xosodaiphat.com##.adv-side-bar
 - xosodaiphat.com##.banner-adv-wrapper
@@ -743,8 +746,8 @@ domain_set:
 - xxoilac.com##.g-imgtop
 - xxoilac.com##.link2.group-link
 - xxoilac.com##.top-main>div:nth-child(1)>div:nth-child(1)>div:nth-child(2)
-- xxoilac.com,90phut22.xyz##.btn-bet
-- xxoilac.com,live3.thapcam26.net,90phut22.xyz,live.thapcam30.net,live.thapcam70.net,live4.thapcam29.net,live3.thapcam121.net,live2.thapcam120.net##.active.bg-overlay
+- xxoilac.com,goal.90phut24.xyz##.btn-bet
+- xxoilac.com,live3.thapcam26.net,goal.90phut24.xyz,live4.thapcamm.xyz,live2.thapcam29.net,live4.thapcam29.net,live3.thapcam27.net,live2.thapcam120.net##.active.bg-overlay
 - yanhh3d.com###catfish-ads
 - yanhh3d.com##.banner-ads-cs
 - ycongnghe.com##.td-container > div.td-pb-row > .td-pb-span12
@@ -773,8 +776,8 @@ domain_set:
 - '@@/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js$script,~third-party'
 - '@@||4.bp.blogspot.com/-Faf4F4bEgfs/X6bgItBh8RI/AAAAAAAADr4/TI07qDfVYWk4cPdNAj8Mn5Q_yVzuG2cJgCK4BGAYYCw/s1600/gvnvh18.png$image,domain=www.gvnvh.net'
 - '@@||alwingulla.com/88/tag.min.js$xmlhttprequest,script,domain=apkmoddone.com'
-- '@@||anime47.work/ads/v/8.26.9/jw'
-- '@@||anime47.work/ads/v/8.26.9/translations'
+- '@@||anime47.app/ads/v/8.26.9/jw'
+- '@@||anime47.app/ads/v/8.26.9/translations'
 - '@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/6.0.0/videojs-contrib-ads.js$script,domain=sctvonline.vn'
 - '@@||contextual.media.net/dmedianet.js$domain=azrom.net'
 - '@@||googleads.g.doubleclick.net/pagead/$domain=cungthi.online|romgoc.net'
@@ -843,10 +846,10 @@ domain_set:
 - vn2.vn#@#.advertiser
 - vndoc.com#@#.showads
 - $third-party,script,domain=sexdiaryx.live
-- /assets/js/vast.js$script,domain=~phevkl.club|~viet69.la
+- /assets/js/vast.js$script,domain=~phevkl.blog|~viet69.sale
 - /player/vast.js$script
 - /theme/custom.int.js$script,domain=top1sex.me|sex.tuoi69.store|hd.javhay.site|coiphimsex.net|vx.phimsexvip.cc|phimsexviet.io|phimsexvietnam.app|web.clipsex.xxx|gm.phimsexnhanh.tv|clipsex.cam|ww1.ditnhau.cc
-- /wp-content/uploads/*.gif$image,domain=tuoi69.casa|tuoinung.fan|teletiengviet.com|phevkl.club|viet69.la
+- /wp-content/uploads/*.gif$image,domain=tuoi69.cfd|tuoinung.fan|teletiengviet.com|phevkl.blog|viet69.sale
 - '@@||pagead2.googlesyndication.com^$domain=www.gaingon18.me'
 - '##[href^="https://www.i9017.com/"]'
 - avvietsub.info###ds_top
@@ -854,18 +857,18 @@ domain_set:
 - avvietsub.info##body>.container>div
 - bimmup.tv###popup-giua-man-hinh
 - bimmup.tv##.ads_below_player
-- chichnhau.vin###pc-preload-modal
-- chichnhau.vin###popup
-- chichnhau.vin##.in.fade.modal-backdrop
-- chichnhau.vin##.quang-cao
-- chichnhau.vin##.top-float-ck
-- cliphot69.my###custom_html-42
-- cliphot69.uno###mp-preload-pp-overlay
-- cliphot69.uno##.adpl
-- cliphotvn69.com,mobiblog123.com,cliphot69.my,phevkl.club,www.gvnvh.net,topviet69.online,sayhentai.one,viet69.la##.float-ck-center-lt
-- damconuong.org##.pc-catfixx
-- damconuong.org##a[rel="nofollow"]
-- dualeotruyenman.com##[id$="bnr"]
+- chichnhau.mobi###pc-preload-modal
+- chichnhau.mobi###popup
+- chichnhau.mobi##.in.fade.modal-backdrop
+- chichnhau.mobi##.quang-cao
+- chichnhau.mobi##.top-float-ck
+- cliphot69.art###custom_html-42
+- cliphot69.lat###mp-preload-pp-overlay
+- cliphot69.lat##.adpl
+- cliphotvn69.com,mobiblog123.net,cliphot69.art,phevkl.blog,www.gvnvh.net,topviet69.vip,sayhentai.one,viet69.sale##.float-ck-center-lt
+- damconuong.top##.pc-catfixx
+- damconuong.top##a[rel="nofollow"]
+- dualeotruyenbbq.com##[id$="bnr"]
 - 'filemoon.sx##body>[style*="position: fixed;"]'
 - fullcliphot.com##.banner-ads
 - fullcliphot.com##div#recent-content:nth-of-type(1)
@@ -878,7 +881,7 @@ domain_set:
 - hentaivn.love##.wppopups-whole
 - jav.sexsub.icu##.v4j-watch-1.v4j-content
 - jav.sexsub.icu##body>div[class]
-- jav.vc,damsextv.pro##.catfix
+- jav.vc,sexhdpro.net##.catfix
 - javhd.shop,vlxxai.net,trangsexdam.net,javhd.social,sexsoc.info##.hd-tube-desktop
 - javhd.shop,vlxxai.net,trangsexdam.net,javhd.social,sexsoc.info##.hd-tube-mobile
 - javhd.tech###AgeModal
@@ -887,15 +890,19 @@ domain_set:
 - javtopxx.com##.cat-fish.a-play
 - javtopxx.com##.overlay
 - khosex.blog,sexheovl.com,sexvip.lol,trangsexdam.net##.w1e48c4420b7073bc11916c6c1de226bb
-- lxmanga.online##.ads-wrapper
+- lxmanga.site##.ads-wrapper
 - mobi.ditnhauvietnam.com,javhdvip.net##.alldiv ~ div[class]
 - ngaytho.me##.body_wrapper1
 - nhentaivn.online###popup_fi
-- phevkl.club,viet69.la###haun-player>div[style]
-- phevkl.club,viet69.la###preload
-- phevkl.club,viet69.la###primary-nav>div[style]
-- phevkl.club,viet69.la##.separator
-- phevkl.club,viet69.team,viet69.la###mp-preload-popup-overlay
+- pheclip.one###pc-preload-modal
+- pheclip.one##.in.fade.modal-backdrop
+- pheclip.one##.quang-cao
+- phevkl.blog,viet69.sale###haun-player>div[style]
+- phevkl.blog,viet69.sale###preload
+- phevkl.blog,viet69.sale###primary-nav>div[style]
+- phevkl.blog,viet69.sale##.separator
+- phevkl.blog,viet69.town,viet69.sale###mp-preload-popup-overlay
+- phim.sexdb.pro,sexgaidep69.pro,phimsexmoi5s.pro##.quangcaomobile
 - phim.sexxsub.pro##.banner-catfish-bottom
 - phim18hd.sex##.cash-fish
 - phim18hd.sex##.cash-fish-pc
@@ -917,26 +924,25 @@ domain_set:
 - rphang.dog##.p-footer
 - rphang.dog##.samVideoOverlay
 - sex.tuoi69.store##.v4j-header.v4j-content
-- sexdacbiet.top,sexgaidep69.pro,phimsexmoi5s.pro##.quangcaomobile
 - sexhd88.live##.classvi
 - sexhd88.live##.elementor-section-height-default.elementor-section-boxed.elementor-element-e601265.elementor-element.elementor-top-section.elementor-section
 - sexviet4.top##.preload
 - sexviettop.blog,javhd.tech,khosex.blog,sexheovl.com,sexvip.lol,trangsexdam.net,vlxxai.net,javhd.social,sexsoc.info###f186fb23a33995d91ce3c2212189178c8
 - sexvn2024.pro###tut4ktream_idAdLink
-- sieudamtv.lol,phim18vip.vip###pc-preload-modal
-- sieudamtv.lol,phim18vip.vip###popup
-- sieudamtv.lol,phim18vip.vip##.quang-cao
-- sieukhungz.org##.adspopupgiua
-- sieukhungz.org##.adspopupleft
-- sieukhungz.org##.adspopupright
-- sieukhungz.org##.float-ckgiua
+- sieudamtv.run,phim18vip.vip###pc-preload-modal
+- sieudamtv.run,phim18vip.vip###popup
+- sieudamtv.run,phim18vip.vip##.quang-cao
+- sieukhung.live##.adspopupgiua
+- sieukhung.live##.adspopupleft
+- sieukhung.live##.adspopupright
+- sieukhung.live##.float-ckgiua
 - truyen18.fun##.a-header
 - truyen18.fun##.apu
 - truyen18.fun##.header
 - truyenfull.io###shoppe_ads_fly
-- truyensextv.com,lxmanga.online##.sticky-footer
-- tuoi69.casa###bar_float_r
-- tuoi69.casa##.quangcaomb
+- truyensextv.com,lxmanga.site##.sticky-footer
+- tuoi69.cfd###bar_float_r
+- tuoi69.cfd##.quangcaomb
 - tuoinung.fan###hide_float_right
 - tut4ktream.online###idAdLink
 - vailonxx.vip###adsbottom
@@ -944,9 +950,9 @@ domain_set:
 - vailonxx.vip##.vailo-sticky
 - vailonxx.vip##.vailo-under-navbar
 - vailonxx.vip##.vailo-under-navbar-mobile
-- viet69.do##.footer-fixed-br-container
-- viet69.la##.popup-overlay
-- viet69.team##.banner-play
+- viet69.moi##.footer-fixed-br-container
+- viet69.sale##.popup-overlay
+- viet69.town##.banner-play
 - vietxxx.xyz##.v4j-watch-1.v4j-content>center
 - vl.phe.to##.sdzhead
 - vl.phe.to,phim.sexxsub.pro###divExoLayerWrapper
@@ -955,20 +961,20 @@ domain_set:
 - vlxx.mx##.catfish-top
 - vlxx.mx##.ff-banner
 - vlxx.mx##div.banner-catfish-bottom
-- vlxx.mx,clipsexhot3x.net##.catfish-bottom
+- vlxx.mx,haysex3xyz.net##.catfish-bottom
 - vlxx.mx,javtopxx.com##.ads
-- vlxyz.tube,mupdep.net##.xx-ads
+- vlxyz.tube,sexhdpro.net##.xx-ads
 - vn.javbabe.net##.b-player
 - vn.phym18.lol##div#bnads
 - vtvgo.vn##.adContainer
-- www.buomtv.me##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
-- www.buomtv.me##._9xtpcl.e1e6v8dt
-- www.buomtv.me##.blbew80
-- www.buomtv.me##.llnefd1
-- www.buomtv.me##.lpp0nsn
-- www.buomtv.me##.luq51lg.a13wihj
-- www.buomtv.me##.pointer-events-auto.block
-- www.buomtv.me##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
+- www.buomtv.one##._9xtpcl.c4je67d.c1qs0lzc.c1hrlkpu.cc2icwl.c1i0iccj.cfd18df
+- www.buomtv.one##._9xtpcl.e1e6v8dt
+- www.buomtv.one##.blbew80
+- www.buomtv.one##.llnefd1
+- www.buomtv.one##.lpp0nsn
+- www.buomtv.one##.luq51lg.a13wihj
+- www.buomtv.one##.pointer-events-auto.block
+- www.buomtv.one##.zbgpvb19.zbgpvb16.zbgpvbj.zbgpvbh.zbgpvbg.zbgpvbf.zbgpvbe.zbgpvb1
 - www.gaingon18.me###iklan-atas-wrapper
 - www.vlxxhot.net##.adx1
 - www.vlxxhot.net,vailonxx.vip###ab_ctl
@@ -984,24 +990,23 @@ domain_suffix_set:
 - 123nhadatviet.com/Media/CK/banners/
 - 123nhadatviet.net/Media/CK/banners/
 - 2banh.vn/images/banners/
-- 90phut22.xyz
 - acscdn.com/script/aclib.js$script,domain=ytstv.me
 - ads*.autodaily.vn
 - ads.nghenhinvietnam.vn
 - ahaphimz.com/js/pov.js$script
 - alwingulla.com/88/tag.min.js$script,xmlhttprequest,rewrite=abp-resource:blank-js,domain=apkmoddone.com
-- animehay.my
-- animet3.biz
-- animevietsubs.com/vast/$image
-- animew.org/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com$image
-- animew.org/_next/image?url=https%3A%2F%2Fp21-ad-sg.ibyteimg.com$image
+- animehay.de
+- animet3.ink
+- animevietsubs.net/vast/$image
+- animew.info/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com$image
+- animew.info/_next/image?url=https%3A%2F%2Fp21-ad-sg.ibyteimg.com$image
 - api.adda.link
 - asecdn.w88media.com/VN/250x250-VN.gif$domain=mythethao.net
 - baohaugiang.com.vn/uploads/SlideHomeimg/
 - 'baomoi.com$csp=script-src data: blob: * ''self'' ''unsafe-inline'''
 - baonga.com/FileUpload/Images/*banner
 - bf.333xbet.com
-- biphim.ch/public/prom_ad/prom_ad.js$script
+- biphim.id/public/prom_ad/prom_ad.js$script
 - blog.abit.vn/wp-content/uploads/2020/05/abit_$image
 - blogger.googleusercontent.com
 - bonbanh.com/ad/
@@ -1012,11 +1017,11 @@ domain_suffix_set:
 - cdn.thichxemphim1.net/wp-content/themes/halimmovies-child/jscm.min.js$domain=thichxemphim1.net
 - cdn.webhoctienganh.com/asset/home/img/banner/$image,domain=webhoctienganh.com
 - cdn2-img.net
-- chillphimmoizzzz.org/assets/*.gif$image
-- chillphimmoizzzz.org/assets/js/popup.js
+- chillphimmoi.pro/assets/*.gif$image
+- chillphimmoi.pro/assets/js/popup.js
 - chodansinh.net
 - chotlo3s.com
-- cloud.motchill-stream.win/common/ads/$image,domain=motchilltv.li
+- cloud.motchill-stream.win/common/ads/$image,domain=motchilltv.id
 - code.gunnymienphi.net
 - danketoan.com/banner/
 - data.voz.vn/94bf/166a6849b5cd7d.jpg$domain=voz.vn
@@ -1024,29 +1029,30 @@ domain_suffix_set:
 - docnhanh.vn/images/ads/$image
 - doctruyenchu.info/ads/$image
 - doctruyenchu.info/home/js/ads.js$script,~third-party
-- domdomtruyenday.com/script.js$script,~third-party
+- domdomcomics.net/script.js$script,~third-party
 - dongchill.pro/ads/ads_xx.js$script,~third-party
-- dongphim.taxi/ads/ads_xx.js$script
+- dongphim.id/ads/ads_xx.js$script
 - down-cvs-vn.img.susercontent.com
-- fastscans2.net/_next/static/media/voucher.$image
+- fastscans3.net/_next/static/media/voucher.$image
 - ff.imacdn.com
 - file1.dangcongsan.vn
 - forum.idichvuseo.com/images/quang-cao
 - fshare.vn/lib/jwplayer/jwplayer.js
-- fuhuo.net/content/rest?t=ads_config$xmlhttprequest
+- fuhuoo.net/content/rest?t=ads_config$xmlhttprequest
 - fun6668.com/Banner/$domain=mythethao.net
 - fundingchoicesmessages.google.com
 - gavangtv.cdn.vccloud.vn
-- ghienphim.in/client_assets/images/
-- ghienphim.in/client_assets/js/minijumb.js
+- ghienphim.vip/client_assets/js/minijumb.js
+- ghienphim.vip
 - ght.kernh41.com
 - github.com/vietcodeno1/basic-lesson/$domain=phimno1.me
 - github.com
+- goal.90phut24.xyz
 - googleusercontent.com
 - heovktgame.club/wp-content/plugins/banner-management/$image
-- hhhay.me
-- hhkungfu.club/88vn$image,domain=hhchina.lat
-- hhpanda.city/ads/$script,~third-party
+- hhhay.ink
+- hhkungfu.club/88vn$image,domain=hhchina.us
+- hhpanda.info/ads/$script,~third-party
 - hinhso.com
 - hosocongty.vn/uploads/products/$~third-party,image
 - hotphimvn.cc/disable.js$script
@@ -1073,19 +1079,22 @@ domain_suffix_set:
 - kenhtin.net/upload/images/banner-
 - kienthuc.net.vn/*.ads
 - laodong.vn/*QuangcaoOnline
-- lh3.googleusercontent.com/*=s0$image,domain=animevietsub.run|hoathinh4k3.net|hayghe.cam
+- lh3.googleusercontent.com/*=s0$image,domain=animevietsub.ink|hoathinh4k3.net|hayghechill.com
 - linkads.xyz
 - listnhacai88.com
 - live.staticflickr.com$domain=timdaily.vn,image
 - maclife.io
 - media.nghean24h.vn$image,domain=nghean24h.vn
 - mocfun.net/uploads/banners/
-- motchill.taxi/js/ads_xx.js
-- motchilltv.ws/banner$image
+- motchill.casa/js/ads_xx.js
+- motchilllb.net/banner$image
+- motphimtv.ch/js/ads.js?$script,~third-party
 - mplmncb.com/banners-web$image,domain=truyenqqto.com
 - mplmncb.com/popup/$script,domain=truyenqqto.com
 - nettruyenviet.com/assets/js/pop$script
 - nettruyenww.com/public/assets/js/pop$script,~third-party
+- newoneinoldoneout.pro/banners-web/$image,domain=nettruyenww.com
+- newoneinoldoneout.pro/popup$script,domain=nettruyenww.com
 - nhadatvang.vn/images/$domain=muabanraovat.com
 - nhipcaudautu.vn/*gafin$script
 - nhipcaudautu.vn/Media/*.gif
@@ -1095,7 +1104,7 @@ domain_suffix_set:
 - phimhaythuyetminh.live$csp=script-src 'self' 'unsafe-inline'
 - phimmoi.ing/js/ads.js$script
 - phimmoi.ing
-- phimmoichill.io/newchill/$script,~third-party
+- phimmoichill.biz/newchill/$script,~third-party
 - phimmoichillz.cc/pop$image
 - phimmoichillz.cc
 - phimmoinhat.top
@@ -1124,7 +1133,7 @@ domain_suffix_set:
 - sharecode.vn/assets/images/thiet-ke-website.jpg
 - shope.ee
 - shopee.vn
-- shopphukien.shop/pop.js$script,domain=motchill.id|ohaytv.com
+- shopphukien.shop/pop.js$script,domain=motchill.now|ohaytv.com
 - sognoansofou.net
 - sohuutritue.net.vn/files/qc/
 - soikeo365.net
@@ -1135,9 +1144,9 @@ domain_suffix_set:
 - static.ybox.vn
 - stc02bc54661548.cloud.anycastapnic.com
 - storage.fshare.vn/images/$third-party
-- subnhanh.dev/js/ads_xx.js
-- subnhanh.dev/js/ads_xx.min.js$script,~third-party
-- subnhanhvl.top/js/ads_xx.js$script,~third-party
+- subnhanh.id/js/ads_xx.js
+- subnhanh.id/js/ads_xx.min.js$script,~third-party
+- subnhanhvl.online/js/ads_xx.js$script,~third-party
 - suckhoelamdep.vn
 - tailieuvnu.com/wp-content/uploads/2022/12/28/shopee-2*.png$image
 - 'taoanhdep.com$csp=script-src ''self'' ''unsafe-inline'' data: https:'
@@ -1156,7 +1165,7 @@ domain_suffix_set:
 - toithuthuat.com
 - tracker.idocdn.com
 - traderviet.tv/data/siropu/am/user/$image
-- tram3d.tv
+- tram3d.vip
 - tructiep.vn/website/adv/
 - truyen4u.pro$csp=script-src 'self' 'unsafe-inline'
 - truyenconect.com/uploads/*-truyenconect_com-*.
@@ -1169,7 +1178,7 @@ domain_suffix_set:
 - tuyensinhso.vn/images/banners/*.gif$image,~third-party
 - tvhay.cx/guide/popup.xp-f.js
 - tvhayd.com
-- tvphim.my/ads/popup-tt.js$script,~third-party
+- tvphim.id/ads/popup-tt.js$script,~third-party
 - tvzinghd.co/wp-content/themes/zingtv/js/qci9bc.js$script,~third-party
 - uniad.$third-party
 - upanh.vn-z.vn/images/2024/05/20/Ban-sao-Deskin-banner-1.jpeg$image,domain=vn-z.vn
@@ -1181,7 +1190,7 @@ domain_suffix_set:
 - vivuphim.info
 - vnesports.art
 - vov.vn/ads/show-ads
-- vsc58.com/wp-content/themes/vuasanco/assets/scripts/scripts.js
+- vsc59.com/wp-content/themes/vuasanco/assets/scripts/scripts.js
 - wibu47.com
 - 'ww1.xemphimhdc.com$csp=script-src ''self'' ''unsafe-inline'' https:'
 - ww1.xemphimhdc.com
@@ -1302,41 +1311,40 @@ domain_suffix_set:
 - cdn-01.w3img.com
 - cdn.adxcontent.com
 - cdn.javbabe.net
-- cliphot69.my$csp=script-src 'self' 'unsafe-inline'
-- cliphot69.my
+- cliphot69.art$csp=script-src 'self' 'unsafe-inline'
+- cliphot69.art
 - cliphotvn69.com
-- clipsexhot3x.net
 - cloufdlare.com/ads/vn1.html$subdocument,domain=vl.phe.to
 - demo123.info/*ads/$image,domain=phim.sexxsub.pro
 - discordapp.$image,domain=phym18.lol|phim18vip.vip|avvietsub.info|phimsexsub.xyz
-- github.com/taylordale7372189/$image,domain=sieudamtv.lol
+- github.com/taylordale7372189/$image,domain=sieudamtv.run
+- haysex3xyz.net
 - hentaihvn.tv/qx/$subdocument
 - hentaivn.love
 - i.ibb.co
 - i.imgur.com
-- i2.vlstorage.com/da88_1080p.mp4$domain=phevkl.club|viet69.la,rewrite=abp-resource:blank-mp3
+- i2.vlstorage.com/da88_1080p.mp4$domain=phevkl.blog|viet69.sale,rewrite=abp-resource:blank-mp3
 - i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com
 - img.av3x.net/upload/av3x.net/banners/$domain=phimsexhay669.pro
-- img.buomtv.vip/palivn/ad/$image,domain=www.buomtv.me
+- img.buomtv.vip/palivn/ad/$image,domain=www.buomtv.one
 - img.congdongmassage.com/banner/$image,domain=congdongmassage.com
 - jav.sexkhongchehd.com/theme/main.isa.js$script,~third-party
 - jav.sexsub.icu
 - javtopxx.com/public/images/banner/$image
 - kgfjrb711.com
-- lxmanga.online/storage/images/banners
+- lxmanga.site/storage/images/banners
 - mangadm.cc$csp=script-src 'self' 'unsafe-inline' http
 - mneydirec.com
-- mupdep.net
+- mwejhobumo.com
 - ngaytho.me
 - nrs6ffl9w.com
 - phim.sexhayvl.org/theme/main.isa.js$script
 - phimsexsub.ch/wp-admin/admin-ajax.php?action=htmlcountry_get_data
 - phimsexsub.ch
-- phimsexsub.xyz/css/pss.webp$image,domain=nhentaivn.online
 - phym18.lol/static/js/adlia.js
 - play.stream4.me/jwplayer/vast.js$script,domain=play.stream4.me
-- qcvip.xyz/popup$script,domain=phevkl.club|viet69.la
-- quatvn.store/ads.js$script
+- qcvip.xyz/popup$script,domain=phevkl.blog|viet69.sale
+- quatvn.skin/ads.js$script
 - quoracdn.net
 - rphang.online
 - sayhentai.one/assets/js/ads.js
@@ -1344,12 +1352,13 @@ domain_suffix_set:
 - sexdiaryx.live$csp=script-src 'self' 'unsafe-eval'
 - sexhd88.live/wp-content/themes/vidorev/img/jun881.png$image
 - sexhd88.live
+- sexhdpro.net
 - sexviet4.top
-- sieukhungz.org
+- sieukhung.live
 - t7cp4fldl.com
-- telegra.ph/file/$image,domain=cliphot69.uno
+- telegra.ph/file/$image,domain=cliphot69.lat
 - telegra.ph
-- topviet69.online
+- topviet69.vip
 - truyen18.fun/media/abc/$image
 - truyen18.fun/media/banner/$image
 - truyensextv.com/anh/$image
@@ -1357,7 +1366,7 @@ domain_suffix_set:
 - truyenvn.wiki
 - vietxxx.xyz/theme/custom.int.js$script,~third-party
 - vl3x.vip/ads/$script
-- www.buomtv.me/palivn/ad/$image
+- www.buomtv.one/palivn/ad/$image
 - www.displayvertising.com
 - x.clipsexhot.org/theme/main.isa.js$script,domain=x.clipsexhot.org
 - xx.sexkhongchemoi.com/theme/main.isa.js$script,domain=xx.sexkhongchemoi.com
@@ -4414,6 +4423,7 @@ domain_suffix_set:
 - abacho.net
 - abackchain.com
 - abandonedaction.com
+- abbalgapb.com
 - abbeyintervalfetched.com
 - abbeysrustled.uno
 - abbvagoz.com
@@ -4423,9 +4433,11 @@ domain_suffix_set:
 - abcqkobziol.com
 - abkoxlikbzs.com
 - ablhmeaklp.com
+- abmgpaqf.com
 - aboardlevel.com
 - above.com
 - aboveredirect.top
+- abpvhymadq.com
 - abqguldudbi.com
 - abqhafpada.com
 - abqlultasvf.com
@@ -4585,6 +4597,7 @@ domain_suffix_set:
 - adaction.de
 - adalgard-wol.com
 - adapt.tv
+- adaptationreconsider.com
 - adasiatagmanager.appspot.com
 - adbard.net
 - adblockanalytics.com
@@ -5331,6 +5344,7 @@ domain_suffix_set:
 - ahjanhabmo.com
 - ahjshyoqlo.com
 - ahjuliten.com
+- ahkoqzxuzsf.com
 - ahlcujguphr.com
 - ahqpqpdjpj.com
 - ahreprh2kfk8rfjr09.com
@@ -5353,6 +5367,7 @@ domain_suffix_set:
 - ajfmiqxugc.com
 - ajfnee.com
 - ajggirci.com
+- ajglirsuk.com
 - ajkdtajpaw.com
 - ajkoplopnza.com
 - ajouter.net
@@ -5364,6 +5379,7 @@ domain_suffix_set:
 - ak.groaxonsoow.net
 - ak.oneegrou.net
 - ak.ptailadsol.net
+- ak.unblitzlean.com
 - ak0gsh40.com
 - akjotpoxwp.com
 - aklaszonkob.com
@@ -5409,6 +5425,7 @@ domain_suffix_set:
 - altronopubacc.com
 - altwi-cha.com
 - alwingulla.com
+- alwtupwwafu.com
 - alxgtyqhio.com
 - alxkpafhaka.com
 - amanda-cle.info
@@ -5513,6 +5530,7 @@ domain_suffix_set:
 - anansao2ay8yap09.com
 - andricequates.com
 - android-stat.acestream.net
+- anewfeedliberty.com
 - anglemarrowoccurs.com
 - anglishreasts.site
 - animikii-ana.com
@@ -5543,6 +5561,7 @@ domain_suffix_set:
 - apcawxgpon.com
 - apcnrutpeqa.com
 - apcpaxwfej.com
+- apdozzbkyasc.com
 - apercusdimly.com
 - apex-ad.com
 - apfsujontqu.com
@@ -5595,6 +5614,7 @@ domain_suffix_set:
 - appflood.com
 - appia.com
 - applog.camera360.com
+- appointeeivyspongy.com
 - appolicious.com
 - apprebates.com
 - appredeem.com
@@ -5618,6 +5638,7 @@ domain_suffix_set:
 - aq7ua5ma85rddeinve.com
 - aqdjimadsb.com
 - aqdoxczajah.com
+- aqncinxrexa.com
 - aqpafqbmyg.com
 - aqpnuqrcib.com
 - aqrazrnivb.com
@@ -5656,6 +5677,7 @@ domain_suffix_set:
 - asacdn.com
 - asadcdn.com
 - asccdn.com
+- ascentlitigateunsaved.com
 - ascentmatrimonypistol.com
 - asdhhuztul.com
 - asdkd.tutuapp.com
@@ -5683,6 +5705,7 @@ domain_suffix_set:
 - astivysauran.com
 - astlcynidni.com
 - astmuka.com
+- astonishlandmassnervy.com
 - aswbtobwiot.com
 - aswgwyrmyoh.com
 - aswpsdkeu.com
@@ -5737,6 +5760,9 @@ domain_suffix_set:
 - avjpkaasba.com
 - avocet.io
 - avouchuramil.com
+- avsakrcapna.com
+- avvavcazs.com
+- avvxcexk.com
 - awaps.net
 - awembd.com
 - awempire.com
@@ -5748,6 +5774,7 @@ domain_suffix_set:
 - awvpapjucr.com
 - awvracajcsu.com
 - awvtzezarm.com
+- awwagqorqpty.com
 - awxdazlufot.com
 - awxxfotcooh.com
 - awzbijw.com
@@ -5760,6 +5787,7 @@ domain_suffix_set:
 - axmtrack.com
 - axnohscriha.com
 - axwnmenruo.com
+- axx.seovietnam.pro
 - axzwinjabhc.com
 - ay.delivery
 - ayads.io
@@ -5774,6 +5802,7 @@ domain_suffix_set:
 - azmsmufimw.com
 - azmwhyabczw.com
 - azoaltou.com
+- azqohjahfo.com
 - azrwwodreta.com
 - azxaqblzaw.com
 - b-1st.com
@@ -5794,6 +5823,7 @@ domain_suffix_set:
 - baggalaresaid.com
 - baglezymoses.com
 - bagnutperpera.com
+- baguettefactornervous.com
 - bahdubniwnty.com
 - bahmemohod.com
 - baithoph.net
@@ -6045,6 +6075,7 @@ domain_suffix_set:
 - bletretzian.com
 - blingbucks.com
 - blis.com
+- bloatingexpectantretinal.com
 - blockadsnot.com
 - blode-cpq.com
 - blogads.com
@@ -6159,9 +6190,12 @@ domain_suffix_set:
 - brije-cor.info
 - britepool.com
 - british-banners.com
+- brittlesturdyunlovable.com
 - broadboundary.com
 - broadcastbed.com
 - broaddoor.com
+- broadensilkslush.com
+- broadlyjukeboxunrevised.com
 - brookgetupshorts.com
 - browser-update.org
 - bruisebaseball.com
@@ -6212,6 +6246,7 @@ domain_suffix_set:
 - buskerreshoes.website
 - bustlemiszone.com
 - bustlinganimal.com
+- bustslicerstrongbox.com
 - butalksuw9dj10.com
 - buyhitscheap.com
 - buyseoblog.com
@@ -6275,6 +6310,7 @@ domain_suffix_set:
 - canzosswager.com
 - capablecows.com
 - capaciousdrewreligion.com
+- capitalgolfmushily.com
 - cappuccinoeliza.com
 - capsizehatlessprude.com
 - captainbicycle.com
@@ -6343,6 +6379,7 @@ domain_suffix_set:
 - cdn.netcatx.com
 - cdn.onesignal.com
 - cdn.pbxai.com
+- cdn.pncloudfl.com
 - cdn.promotionengine.com
 - cdn.pubnub.com
 - cdn.qgr.ph
@@ -6380,8 +6417,10 @@ domain_suffix_set:
 - chango.com
 - channelintelligence.com
 - chargeplatform.com
+- charitylingoreformer.com
 - charmshoist.com
 - chart.dk
+- chaseherbalpasty.com
 - chaumsee.net
 - cheap-result.pro
 - checkbookdisgusting.com
@@ -6393,6 +6432,7 @@ domain_suffix_set:
 - chelonebarpost.com
 - cheno3yp5odt7iume.com
 - chewcoat.com
+- chiamfxz.com
 - chickensstation.com
 - chicoryapp.com
 - childhoodstudioconversation.com
@@ -6428,6 +6468,7 @@ domain_suffix_set:
 - cifbhopfaon.com
 - cifopjcavn.com
 - cifzuqopdpzi.com
+- cigdizwu.com
 - cihwactuqkco.com
 - ciksolre.net
 - cilsammwcblcv.com
@@ -6604,6 +6645,7 @@ domain_suffix_set:
 - concertads-configs.vox-cdn.com
 - confideshrinebuff.com
 - config.safedk.com
+- conformfavoredgauging.com
 - coniesnitch.com
 - conjunctionrepresentativepowerless.com
 - connect.scroll.com
@@ -6633,11 +6675,13 @@ domain_suffix_set:
 - coordinatedcub.com
 - coosync.com
 - coosyncs.com
+- copiousgoutswimwear.com
 - copperchickens.com
 - copterezba.com
 - copycarpenter.com
 - copyrightaccesscontrols.com
 - coralogix.com
+- core.airbridge.io
 - coreidkanaka.digital
 - coremetrics.com
 - coretalk.co
@@ -6686,6 +6730,7 @@ domain_suffix_set:
 - cpxinteractive.com
 - cqcounter.com
 - crabbychin.com
+- craftilypendantwhinny.com
 - craharice.com
 - crajeon.com
 - crakmedia.com
@@ -6705,6 +6750,7 @@ domain_suffix_set:
 - creakdovbvfi.com
 - creamssicsite.com
 - creasureeffe.club
+- creatablegluesurvival.com
 - creative-serving.com
 - creative.leojmp.com
 - creative.myavlive.com
@@ -6725,6 +6771,7 @@ domain_suffix_set:
 - crmpt.livejasmin.com
 - crmt.livejasmin.com
 - croakdisconnectedclaw.com
+- croakglanceskier.com
 - croniesobli.com
 - crosspromo.voodoo.io
 - crowdgravity.com
@@ -6755,6 +6802,7 @@ domain_suffix_set:
 - culmedpasses.cam
 - culterwhether.com
 - culturalsameunbridle.com
+- culwcoam.com
 - cumbersomecloud.com
 - cumhiwdfoagk.com
 - cunealfume.shop
@@ -6920,6 +6968,7 @@ domain_suffix_set:
 - decisiveducks.com
 - deckdistant.com
 - decknetwork.net
+- decoratedmulesanta.com
 - decoycreation.com
 - decptynhipdrkrg.com
 - deddyenthral.website
@@ -6970,6 +7019,7 @@ domain_suffix_set:
 - detectdiscovery.com
 - deterrentviewsmedal.com
 - deviatestartblock.com
+- devoteegibberishsinister.com
 - dewierhagger.com
 - dewiestsards.com
 - dfeacdftidpu.com
@@ -7023,6 +7073,8 @@ domain_suffix_set:
 - dirswuwutod.com
 - disconotabilitywit.com
 - discountclick.com
+- discountplacidlysymphony.com
+- discovermustystarter.com
 - discovernative.com
 - discreetfield.com
 - dislanelibrar.top
@@ -7046,6 +7098,7 @@ domain_suffix_set:
 - ditasmaced.com
 - divisiondrearilyunfiled.com
 - divorceseed.com
+- dizbirmwavic.com
 - dk4ywix.com
 - dkihlqwmd.com
 - dkojawwuloj.com
@@ -7117,10 +7170,12 @@ domain_suffix_set:
 - draajctabjum.com
 - drabsize.com
 - draftcarli.com
+- dragstergibletshaded.com
 - dragzebra.com
 - drawbrid.ge
 - drawlscions.website
 - drawnperink.com
+- dreadedrevisablevest.com
 - dreamcatcherbnbcolorado.com
 - dreamlikefostergala.com
 - driftstupidityopponent.com
@@ -7144,6 +7199,7 @@ domain_suffix_set:
 - duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
 - duimspruer.life
 - dujzuwadpaqg.com
+- dumkcuakrlka.com
 - dummieseardrum.com
 - dustyhammer.com
 - duwtkigcyxh.com
@@ -7179,6 +7235,7 @@ domain_suffix_set:
 - eabids.com
 - eachseventhblister.com
 - eadexchange.com
+- earmuffvintagevitality.com
 - earnbigo.com
 - earnify.com
 - earphonetipperzombie.com
@@ -7257,6 +7314,7 @@ domain_suffix_set:
 - elfinsande.website
 - elitedollars.com
 - elitetoplist.com
+- elixarco.com
 - ellcurvth.com
 - ellicecaesura.com
 - eltontry.com
@@ -7386,6 +7444,7 @@ domain_suffix_set:
 - expensepurpose.com
 - experteerads.com
 - expertnifg.com
+- explainplaysettwisting.com
 - exploreannihilationquicker.com
 - exponea.com
 - express-submit.de
@@ -7416,6 +7475,7 @@ domain_suffix_set:
 - fadingamendable.com
 - fadverdirect.com
 - fadzudvracat.com
+- fafmimgubcm.com
 - fagawdasv.com
 - fagovwnavab.com
 - fagywalu.pro
@@ -7481,6 +7541,7 @@ domain_suffix_set:
 - fhahujwafaf.com
 - fhepiqajsdap.com
 - fhsmtrnsfnt.com
+- fidokhffekm.com
 - fidszeoqwjf.com
 - fieldofbachus.com
 - fiercedental.com
@@ -7502,6 +7563,7 @@ domain_suffix_set:
 - finkyepbows.com
 - firearmtire.com
 - fireworkswad.com
+- firmzecutci.com
 - firsthive.com
 - firstlightera.com
 - fishyscalpelweight.com
@@ -7510,6 +7572,7 @@ domain_suffix_set:
 - fixedromond.uno
 - fixespreoccupation.com
 - fixsirrod.site
+- fkabzoarsoz.com
 - fkebiffucoh.com
 - fkirhisaqwto.com
 - flagcounter.com
@@ -7652,6 +7715,7 @@ domain_suffix_set:
 - ga.getresponse.com
 - gaelsdaniele.website
 - gaijiglo.net
+- gainsscarceshiny.com
 - galaksion.com
 - galaxien.com
 - galepush.net
@@ -7732,6 +7796,7 @@ domain_suffix_set:
 - glanceguide.com
 - glassesoftruth.com
 - glassmilheart.com
+- glazingretentionupcoming.com
 - gleetedbunged.uno
 - gleetresis.com
 - glefeesh.net
@@ -7757,6 +7822,7 @@ domain_suffix_set:
 - glossysense.com
 - glugherg.net
 - glugreez.com
+- glutenmuttsensuous.com
 - glyphsmahajan.com
 - gmads.net
 - gmuascfchutqkx.com
@@ -7864,6 +7930,7 @@ domain_suffix_set:
 - guatocut.live
 - guchihyfa.pro
 - guerregamming.com
+- guhomnfuzq.com
 - guidecent.com
 - guihua-china.com
 - gujakqludcuk.com
@@ -7882,6 +7949,7 @@ domain_suffix_set:
 - gweluwaggoc.com
 - gycqna.com
 - gyfumobo.com
+- gzefitkcep.com
 - h2aek6rv0ard.com
 - h4aock41f.com
 - h4r7dvewa.com
@@ -7889,6 +7957,7 @@ domain_suffix_set:
 - h78xb.pw
 - habitsdemise.com
 - hacbfyvvsw.com
+- hacspynha.com
 - hadabqhbewcrt.com
 - hadarone.com
 - hadesleta.com
@@ -7911,6 +7980,7 @@ domain_suffix_set:
 - hansajude.uno
 - hansetwangy.com
 - harderdaubpetty.com
+- harderjuniormisty.com
 - hardlycompanionelongated.com
 - hardtofindmilk.com
 - hargmosmosmu.com
@@ -7921,6 +7991,7 @@ domain_suffix_set:
 - harrenmedianetwork.com
 - harshtoreexpression.com
 - harvardunions.com
+- hasanjbam.com
 - hastifuhllo.top
 - hatbenchmajestic.com
 - havagedhyana.com
@@ -7935,6 +8006,7 @@ domain_suffix_set:
 - hazelnutshighs.com
 - hb.minutemedia-prebid.com
 - hb.openwebmp.com
+- hcilralhi.com
 - hcokcetfyanm.com
 - hdatssfpxrwbxs.com
 - hdboqykfajjpmc.com
@@ -8077,6 +8149,7 @@ domain_suffix_set:
 - hsbarbershop.co.uk
 - hscta.net
 - hsych.com
+- htkcggbgzinlmh.com
 - htlbid.com
 - httpool.com
 - htyqiwzunj.com
@@ -8418,6 +8491,8 @@ domain_suffix_set:
 - jjpjpyvdasbvt.com
 - jjvnlfpywgbxgt.com
 - jkfdnofnz.com
+- jkuadhaf.com
+- jkuwfofr.com
 - jl63v3fp1.com
 - jmaomkosxfi.com
 - jmkujybdh.xyz
@@ -8457,6 +8532,7 @@ domain_suffix_set:
 - jtujmyhhuo.com
 - jucysh.com
 - jugjetwok.com
+- juicyriverboatunlit.com
 - jullurdpysu.com
 - julysystems.com
 - jumptap.com
@@ -8574,6 +8650,7 @@ domain_suffix_set:
 - ku2d3a7pa8mdi.com
 - ku42hjr2e.com
 - kueezrtb.com
+- kuglcibhyhuj.com
 - kuhvkajactas.com
 - kukury2hf8nd09.com
 - kuno-gae.com
@@ -8590,6 +8667,7 @@ domain_suffix_set:
 - kybsbwuej.com
 - kymnelboloman.com
 - kytesconge.com
+- kzyadnfufmif.com
 - kzyjpuqizc.com
 - labapwlkyov.com
 - lactolwant.com
@@ -8602,6 +8680,7 @@ domain_suffix_set:
 - lanaisgoll.com
 - langretsahibah.com
 - lapblra5do4j7rfit7e.com
+- lapnicjaqxu.com
 - lapre28rmcat2.com
 - larchesleatman.guru
 - largeer.com
@@ -8667,6 +8746,7 @@ domain_suffix_set:
 - lightningbarrelwretch.com
 - lightningcast.net
 - lightspeedcash.com
+- ligvraojlrr.com
 - likablefix.pro
 - likedstring.com
 - limeclassycaption.com
@@ -8778,6 +8858,7 @@ domain_suffix_set:
 - louchees.net
 - loudlunch.com
 - loutishsilents.com
+- lowpoliwhirler.com
 - lowseelan.com
 - lowtyroguer.com
 - lp3tdqle.com
@@ -8787,6 +8868,7 @@ domain_suffix_set:
 - lraonxdikxi.com
 - lreapfalkguh.com
 - lreqmoonpjka.com
+- lryofjrfogp.com
 - ltecwalahri.com
 - lteuyqnxpbgpxl.com
 - lucidlykidney.com
@@ -8849,6 +8931,7 @@ domain_suffix_set:
 - magnificentmist.com
 - magnite.com
 - magotschnell.uno
+- mahoganyproductthat.com
 - maidsiowan.com
 - mainapiary.com
 - mainlandrelatewednesday.com
@@ -8859,6 +8942,7 @@ domain_suffix_set:
 - makespram.com
 - makqfcvs.com
 - malatiswirled.com
+- malhfiacgx.com
 - mallogrow.com
 - maltunfaithfulpredominant.com
 - malware-scan.com
@@ -8916,6 +9000,7 @@ domain_suffix_set:
 - maxgid.com
 - maximumcash.com
 - maxonclick.com
+- mazbfiladr.com
 - mbid.marfeelrev.com
 - mbiifzdvhexj.com
 - mbs.megaroticlive.com
@@ -9018,6 +9103,7 @@ domain_suffix_set:
 - mg2connext.com
 - mgbid.net
 - mgyccfrshz.com
+- mhavfytafo.com
 - mhelfiricbwa.com
 - mhemmuolcal.com
 - mhvllvgrefplg.com
@@ -9127,6 +9213,7 @@ domain_suffix_set:
 - monitoring.youronlinechoices.com
 - monopolyswimsuit.com
 - monorail-edge.shopifysvc.com
+- monorailnailtributary.com
 - monsterpops.com
 - montacarichi.it
 - monu.delivery
@@ -9224,6 +9311,7 @@ domain_suffix_set:
 - na.o18.click
 - nabfkhgvbi.xyz
 - nableriptide.com
+- nagoverpayreimburse.com
 - nahccnovft.com
 - naiadsystems.com
 - nailyhexones.uno
@@ -9235,6 +9323,7 @@ domain_suffix_set:
 - nan46ysangt28eec.com
 - nangalupeose.com
 - nappyattack.com
+- nastinessreplicaupload.com
 - nastydollars.com
 - nastymetus.com
 - nationalgausewatrust.com
@@ -9319,6 +9408,7 @@ domain_suffix_set:
 - nextgencounter.com
 - nextmillmedia.com
 - nfoxlyvassg.com
+- nfucujozv.com
 - nfybafrufdco.com
 - ng3.ads.warnerbros.com
 - nhamuszahqud.com
@@ -9435,6 +9525,7 @@ domain_suffix_set:
 - observantice.com
 - observedlily.com
 - obsignphippe.com
+- obsoletepaddlevehicular.com
 - obvious-lesson.pro
 - obvkimura.store
 - occdmioqlo.com
@@ -9444,6 +9535,7 @@ domain_suffix_set:
 - ocqsulwrabr.com
 - odaqvdfdowgt.com
 - odbjmugzoq.com
+- odfohvwi.com
 - odgmafoqrag.com
 - odgomfabcas.com
 - odpdipabmq.com
@@ -9455,6 +9547,7 @@ domain_suffix_set:
 - offerforge.com
 - offerfusion.com
 - offergate-apps-publicity.com
+- offergate-other32.com
 - offerimage.com
 - offerlink.monster
 - offermatica.com
@@ -9468,6 +9561,7 @@ domain_suffix_set:
 - ofplredpogw.com
 - ofqaqsazxli.com
 - ofqopmnpia.com
+- ofrvpeodmba.com
 - ofsyuxaveckulgf.com
 - ofvogxvzagh.com
 - oggakmsumxa.com
@@ -9524,6 +9618,7 @@ domain_suffix_set:
 - omgcoool.com
 - omjitjlhx.com
 - omkxadadsh.com
+- omlbaftroofj.com
 - ommaqnopxh.com
 - omnatuor.com
 - omniscientspark.com
@@ -9561,6 +9656,7 @@ domain_suffix_set:
 - onstunkyr.com
 - ontosocietyweary.com
 - onvictinitor.com
+- onwardperishvaluables.com
 - onzasmvmoom.com
 - onzlzyf.com
 - onzmiwhmyz.com
@@ -9598,6 +9694,7 @@ domain_suffix_set:
 - optnmstr.com
 - opxaxqxaqo.com
 - oqcgwyzuhn.com
+- oqdtuqat.com
 - oqfoczdfyag.com
 - oqfpuzaltac.com
 - oqnabsatfn.com
@@ -9610,6 +9707,7 @@ domain_suffix_set:
 - ordounireme.website
 - ordzimwtaa.com
 - orest-vlv.com
+- orfabfbu.com
 - orfraysrectory.uno
 - organizationwoundedvast.com
 - origanfumier.digital
@@ -9626,6 +9724,7 @@ domain_suffix_set:
 - oshfzaatts.com
 - osknimkihvr.com
 - osmanlikaraite.com
+- osrxzucira.com
 - ossjfosarba.com
 - ossokgnacx.com
 - ot6axolwh.com
@@ -9701,6 +9800,7 @@ domain_suffix_set:
 - oxxakkjuzo.com
 - oxxtfunzyti.com
 - oxydend2r5umarb8oreum.com
+- ozbnagojbop.com
 - ozctkohaqmc.com
 - ozlagjasbk.com
 - oznofkfunmr.com
@@ -9709,6 +9809,7 @@ domain_suffix_set:
 - ozsoekwgy.com
 - ozwvkazrik.com
 - ozxakfawm.com
+- p.hogmc.net
 - p23hxejm1.com
 - p4r24.eu
 - pacekami.com
@@ -9723,6 +9824,8 @@ domain_suffix_set:
 - pagiwp.com
 - pahbasqibpih.com
 - paikoasa.tv
+- pajnutas.com
+- palaceunlituntouched.com
 - palaroleg.guru
 - paleleaf.com
 - pallet.fm
@@ -9998,6 +10101,7 @@ domain_suffix_set:
 - possessivebucket.com
 - possibleboats.com
 - posteritybenevolence.com
+- potencyissuedflashlight.com
 - potenza.cz
 - potlegcodeins.com
 - poucoaga.com
@@ -10018,6 +10122,7 @@ domain_suffix_set:
 - pramviable.com
 - pranavafolksey.com
 - praterswhally.com
+- prayexplodesyndrome.com
 - prchecker.info
 - pre.glotgrx.com
 - pre4sentre8dhf.com
@@ -10033,6 +10138,7 @@ domain_suffix_set:
 - prepositioncamouflage.com
 - presbanise.pw
 - presetrabbits.com
+- presidestatelycondition.com
 - presumptuouslavish.com
 - pretendnotwithstandingindirect.com
 - previousplayground.com
@@ -10125,6 +10231,7 @@ domain_suffix_set:
 - ptipsixo.com
 - ptoushoa.com
 - ptuglupyli.com
+- ptuxapow.com
 - ptywajofa.pro
 - pu1.biz
 - pu3.biz
@@ -10207,6 +10314,7 @@ domain_suffix_set:
 - qa-ads.nobid.com
 - qajftiarwp.com
 - qajwizsifaj.com
+- qakzfubfozaj.com
 - qalscihrolwu.com
 - qamwm5o8dlgijte.com
 - qarhrytwyqp.com
@@ -10223,6 +10331,7 @@ domain_suffix_set:
 - qhfjamsmjyn.com
 - qhufmarabam.com
 - qingolor.com
+- qipshozipsah.com
 - qiqdpeovkobj.com
 - qjwglnuwqvr.com
 - qksrv.net
@@ -10270,6 +10379,7 @@ domain_suffix_set:
 - qummafsivff.com
 - quokkacheeks.com
 - quxrrojkucwe.com
+- quzwteqzaabm.com
 - qwaapgxfahce.com
 - qwerfdx.com
 - qwertize.com
@@ -10485,6 +10595,7 @@ domain_suffix_set:
 - righteouscrayon.com
 - rightmedia.com
 - rightstats.com
+- rigidstiffnesszoning.com
 - rihlosty.com
 - rimeseized.com
 - rimvheztaotf.com
@@ -10544,6 +10655,7 @@ domain_suffix_set:
 - rowthsti.com
 - roxr.net
 - rozamimo9za10.com
+- rplhearvc.com
 - rprinc6etodn9kunjiv.com
 - rs6.net
 - rsalcau.com
@@ -10573,6 +10685,7 @@ domain_suffix_set:
 - ruddy-option.pro
 - ruddywash.com
 - rufflycouncil.com
+- rukktiswibi.com
 - rulcaznuvt.com
 - rulovar.com
 - rum-collector-2.pingdom.net
@@ -10695,6 +10808,7 @@ domain_suffix_set:
 - scrubswim.com
 - sdhfbvd.com
 - sdk-monitoring.ogury.co
+- sdk.airbridge.io
 - sdk.apptentive.com
 - sdk.conscent.in
 - sdk.starbolt.io
@@ -10769,6 +10883,7 @@ domain_suffix_set:
 - sg-open-set-api.shenshiads.com
 - sghehllds.com
 - shakesuggestion.com
+- shakingtacklingunpeeled.com
 - shakyseat.com
 - shakytaste.com
 - shallowsmile.com
@@ -11066,6 +11181,7 @@ domain_suffix_set:
 - stats.mirrorfootball.co.uk
 - stats.norton.com
 - stats.olark.com
+- stats.online-convert.com
 - stats.playrix.com
 - stats.popcap.com
 - stats.pornpics.com
@@ -11108,6 +11224,7 @@ domain_suffix_set:
 - stinicf.com
 - stogivpi.com
 - stolenforensicssausage.com
+- stoopfalse.com
 - stoorgel.com
 - stootsou.net
 - storage.mcwnow.co
@@ -11131,6 +11248,7 @@ domain_suffix_set:
 - strivesidewalk.com
 - stroyerveneres.com
 - structurerod.com
+- studyunharmedupscale.com
 - stuiop.com
 - stumbleaugmentlistless.com
 - stumercackles.com
@@ -11178,6 +11296,7 @@ domain_suffix_set:
 - suphelper.com
 - suppliedhopelesspredestination.com
 - supportivelosing.com
+- supportiverarity.com
 - supremeadblocker.info
 - suptur.online
 - surclebodily.uno
@@ -11190,6 +11309,7 @@ domain_suffix_set:
 - susifhfh2d8ldn09.com
 - suspectedadvisor.com
 - suvasgquznag.com
+- suwcaxazzn.com
 - svibeacon.onezapp.com
 - sviter2s1olenyami1.com
 - svkmxwssih.com
@@ -11430,6 +11550,7 @@ domain_suffix_set:
 - tixoxzfpur.com
 - tizadumbed.com
 - tjclskcamptg.com
+- tjk-njk.com
 - tkickhhylnvm.com
 - tkidcigitrte.com
 - tlvmedia.com
@@ -11448,6 +11569,7 @@ domain_suffix_set:
 - todopick.com
 - toeapesob.com
 - toecircle.com
+- toenailannouncehardworking.com
 - tolyafbnjt9dedjj10.com
 - tomeleafs.com
 - tomorroweducated.com
@@ -11500,6 +11622,7 @@ domain_suffix_set:
 - touracostephe.com
 - towardscircumscribe.com
 - tpnads.com
+- tpudapafr.com
 - trabuchbignou.com
 - trac.mediaiqdigital.com
 - track-aws.notsy.io
@@ -11589,6 +11712,8 @@ domain_suffix_set:
 - tranazgimvpy.com
 - tranquilside.com
 - translateoatmeal.com
+- traovrjwu.com
+- trashdisguisedextension.com
 - trashywallowgloom.com
 - travis.bosscasinos.com
 - trawibosxlc.com
@@ -11786,6 +11911,7 @@ domain_suffix_set:
 - urediumshirker.website
 - urimnugocfr.com
 - urlcash.net
+- urrimsaswti.com
 - uruswan.com
 - us.claroadsxml.com
 - usabilla.com
@@ -11983,6 +12109,7 @@ domain_suffix_set:
 - wanforsake.com
 - wanfteakgakt.com
 - wanlyavower.com
+- wapjwujfipuz.com
 - waqool.com
 - warlog.info
 - warlog.ru
@@ -12055,6 +12182,7 @@ domain_suffix_set:
 - westats.dev
 - westspulse.com
 - wetrack.it
+- wfuhkyardawh.com
 - whagrogiva.com
 - whairtoa.com
 - whaiweel.com
@@ -12224,6 +12352,8 @@ domain_suffix_set:
 - xduenseggx.com
 - xebadu.com
 - xertive.com
+- xfohaxohrjr.com
+- xfozizqidav.com
 - xfugidnfujcy.com
 - xfuhhuqtubu.com
 - xfvvygrv.com
@@ -12284,6 +12414,7 @@ domain_suffix_set:
 - y.ibsys.com
 - yaarlnk.com
 - yabuka.com
+- yadfodlzlyt.com
 - yads.c.yimg.jp
 - yampxuxrjyhv.com
 - yarningconfer.guru
@@ -12415,6 +12546,7 @@ domain_suffix_set:
 - zintext.com
 - zisquvwavswo.com
 - zivagppwiga.com
+- zkyqafavdg.com
 - zlbdvgjlxm.com
 - zlotychhoggery.com
 - zlp6s.pw
@@ -12445,6 +12577,7 @@ domain_suffix_set:
 - zupajpvixogg.com
 - zuphaims.com
 - zuphaips.com
+- zuqalzajno.com
 - zvetokr2hr8pcng09.com
 - zwnoeqzsuz.com
 - zwygrimwothy.com
