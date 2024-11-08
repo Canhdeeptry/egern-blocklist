@@ -3,7 +3,7 @@ import yaml
 import os
 
 TXT_URLS = [
-    'https://abpvn.com/filter/abpvn-F2blen.txt',  
+    'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt',  
     'https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers-all.txt' 
 ]
 YML_FILE = 'docs/blocklist.yml'
