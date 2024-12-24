@@ -1,3 +1,3 @@
-﻿# DNS Blocklist Converter
+﻿# Blocklist for Egern
 
 
