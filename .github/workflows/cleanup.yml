@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      actions: write 
+      actions: write  
 
     steps:
       - name: Checkout repository
@@ -18,15 +18,16 @@ jobs:
 
       - name: Delete old workflows
         run: |
-          # Sử dụng GITHUB_TOKEN hoặc PAT
+          
           GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
 
-          # Lấy danh sách workflow runs
-          WORKFLOW_RUNS=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
-            "https://api.github.com/repos/${{ github.repository }}/actions/runs")
+          TWO_WEEKS_AGO=$(date -u --date="2 weeks ago" +"%Y-%m-%dT%H:%M:%SZ")
+          echo "Deleting workflows older than: $TWO_WEEKS_AGO"
 
-          # Lọc và xóa các workflow runs đã hoàn thành
-          for run_id in $(echo $WORKFLOW_RUNS | jq -r '.workflow_runs[] | select(.status == "completed") | .id'); do
+          WORKFLOW_RUNS=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=100")
+
+          for run_id in $(echo $WORKFLOW_RUNS | jq -r --arg date "$TWO_WEEKS_AGO" '.workflow_runs[] | select((.status == "completed" or .status == "failed") and .created_at < $date) | .id'); do
             echo "Deleting workflow run: $run_id"
             curl -X DELETE -H "Authorization: Bearer $GITHUB_TOKEN" \
               "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id"
