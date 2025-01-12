@@ -9,21 +9,24 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
 
+    permissions:
+      actions: write 
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Delete old workflows
         run: |
-          
+          # Sử dụng GITHUB_TOKEN hoặc PAT
           GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
 
-          
+          # Lấy danh sách workflow runs
           WORKFLOW_RUNS=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
             "https://api.github.com/repos/${{ github.repository }}/actions/runs")
 
-          
-          for run_id in $(echo $WORKFLOW_RUNS | jq -r '.workflow_runs[] | select(.status == "completed" and .created_at < "2025-01-01T00:00:00Z") | .id'); do
+          # Lọc và xóa các workflow runs đã hoàn thành
+          for run_id in $(echo $WORKFLOW_RUNS | jq -r '.workflow_runs[] | select(.status == "completed") | .id'); do
             echo "Deleting workflow run: $run_id"
             curl -X DELETE -H "Authorization: Bearer $GITHUB_TOKEN" \
               "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id"
