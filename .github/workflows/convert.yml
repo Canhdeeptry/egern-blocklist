@@ -1,43 +1,46 @@
-name: Convert Blocklist
+name: Build Egern blocklist
 
 on:
   schedule:
-    - cron: "0 3 * * *"  
-  workflow_dispatch:  
+    - cron: "0 2 * * 1"  # Thứ 2, 02:00 UTC
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  
+  contents: write
 
 jobs:
-  convert:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml
 
-    - name: Run conversion script
-      run: |
-        python main.py
+      - name: Convert to YAML (Egern)
+        run: |
+          python convert_egern.py
 
-    - name: Configure Git
-      run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@github.com'
-
-    - name: Commit and push updated YML
-      run: |
-        git add docs/blocklist.yml
-        git commit -m "Update blocklist YML" || echo "No changes to commit"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes if any
+        run: |
+          set -e
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          if git status --porcelain | grep -q "docs/blocklist.yml"; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/blocklist.yml
+            git commit -m "chore: update egern blocklist [skip ci]"
+            git fetch origin main
+            git rebase origin/main
+            git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+          else
+            echo "No changes to commit."
+          fi

@@ -13,22 +13,44 @@ jobs:
       actions: write  
 
     steps:
+
+      # Checkout the repository using the latest stable version
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Delete old workflows
+        shell: bash
         run: |
-          
-          GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          set -euo pipefail
+          # Ensure jq is installed
+          if ! command -v jq &> /dev/null; then
+            echo "jq not found, installing..."
+            sudo apt-get update && sudo apt-get install -y jq
+          fi
 
+          # Use the built-in GitHub token
+          GITHUB_TOKEN="${{ github.token }}"
+
+          # Calculate the date two weeks ago
           TWO_WEEKS_AGO=$(date -u --date="2 weeks ago" +"%Y-%m-%dT%H:%M:%SZ")
           echo "Deleting workflows older than: $TWO_WEEKS_AGO"
 
+          # Fetch workflow runs
           WORKFLOW_RUNS=$(curl -s -H "Authorization: Bearer $GITHUB_TOKEN" \
             "https://api.github.com/repos/${{ github.repository }}/actions/runs?per_page=100")
 
-          for run_id in $(echo $WORKFLOW_RUNS | jq -r --arg date "$TWO_WEEKS_AGO" '.workflow_runs[] | select((.status == "completed" or .status == "failed") and .created_at < $date) | .id'); do
+          # Extract run IDs older than two weeks and completed/failed
+          RUN_IDS=$(echo "$WORKFLOW_RUNS" | jq -r --arg date "$TWO_WEEKS_AGO" '.workflow_runs[] | select((.status == "completed" or .status == "failed") and .created_at < $date) | .id')
+
+          if [ -z "$RUN_IDS" ]; then
+            echo "No old workflow runs to delete."
+            exit 0
+          fi
+
+          # Delete each old workflow run
+          for run_id in $RUN_IDS; do
             echo "Deleting workflow run: $run_id"
-            curl -X DELETE -H "Authorization: Bearer $GITHUB_TOKEN" \
+            curl -s -X DELETE -H "Authorization: Bearer $GITHUB_TOKEN" \
               "https://api.github.com/repos/${{ github.repository }}/actions/runs/$run_id"
           done
+          echo "Cleanup complete."
